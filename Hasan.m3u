@@ -29,6 +29,17 @@ https://proximitybd.xyz/hotstar_eng.php?live=https://live11p-ssai-akt-mum.cdn.ho
 #EXTINF:-1 group-title="Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXngWmGp1OgFedsDDagUmynmlS5Vg6Rcspxw&usqp=CAU",T sports
 https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8
 
+#EXTINF:-1 group-title="Live" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", Sports highlight(ott navigator)
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717675791:KeyName=prod_linear:Signature=f81UccxPMoGXrh1EfyOM9q5eJX4kh-IYCUn97wHVc9JtJX-6O9X1XbYJULywN3Q7-A9IZFA3V90Jaf0wi1zZCw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
