@@ -873,23 +873,23 @@ http://filex.tv:8080/live/mndr111/mndr111/288253.ts
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
 http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE(Dhoom)
-http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE(xtv)
+http://xtv.ooo:8080/live/adnankb2006/86057314/347336.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports XTV
 http://xtv.ooo:8080/adnankb2006/86057314/167590
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6FQiMUVJcO5Ff0N4RsyjjHvDAqfQz7aLtQw&usqp=CAU",star sports 1 Hindy
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=155967&extension=ts&play_token=XEZGZ4syjI
+http://xtv.ooo:8080/live/adnankb2006/86057314/167573.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpl8Di6Y0ONKKp1w-4IapgZV-E6CtajvbTBn60UJ9Sg&s",Ptv sports
-http://xtv.ooo:8080/malik625538/digitalstore1year/167567
+http://xtv.ooo:8080/live/adnankb2006/86057314/217968.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvu9_-cdI1HnBfC8U6GJehUbf5eNZSwL_33HlswdVW6__2EnPvfOWiBls&s",Ten cricket
-http://xtv.ooo:8080/RiyazMPT/433833/167587
+http://xtv.ooo:8080/live/adnankb2006/86057314/167587.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXXfyOFq8s2exK_nDrTOeqpAWQ6KdmHFYWfvT7HnlfqYae92v5Kq-Lx4&s",star sports 1
-http://xtv.ooo:8080/15155419/16175512/167575
+http://xtv.ooo:8080/live/adnankb2006/86057314/167575.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrugGcEf9GqxwA_YuEb3dUaI94Ny2aaohkpQWcPF2RBli2bcdxlPgcmV0&s",star sports 2
 http://xtv.ooo:8080/15155419/16175512/167576
@@ -898,7 +898,7 @@ http://xtv.ooo:8080/15155419/16175512/167576
 http://xtv.ooo:8080/live/adnankb2006/86057314/167578.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq-RxDRb_jjxjLpnOwOuBw0evJwl5PgZX44obG-N2Zu_kx2ovNBU4s3Y&s",star sports select 2
-http://xtv.ooo:8080/live/adnankb2006/86057314/167579.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/167576.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryWPwdKpQdIxNkmLmwHUWApAgfvJHR9IeBHo2z1NDAPhQNbjwbQqPcf0&s",Astro Cricket
 http://xtv.ooo:8080/live/adnankb2006/86057314/352083.ts
@@ -916,16 +916,16 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/355009.ts
 http://xtv.ooo:8080/live/adnankb2006/86057314/355010.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgU9kzIIHNuuCEvmezOgCM2-XTpk1pcognHOIDy3eU0oBxroi1VTuSlIQ&s",sony ten 1
-http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/154
+http://xtv.ooo:8080/live/adnankb2006/86057314/167570.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1WVXLGYZVBR0nZffkxXBExG8ffv0JW9K3lO0HCfeRuQ0cF_1YTexIaQ&s",sony ten 2
-http://xtv.ooo:8080/RiyazMPT/433833/167571
+http://xtv.ooo:8080/live/adnankb2006/86057314/167571.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrxFI5dtHZVVlYEbdCBzez69cvxt29Nhci3qSjPWbwQ&s",sony ten 3
-http://xtv.ooo:8080/RiyazMPT/433833/167572
+http://xtv.ooo:8080/live/adnankb2006/86057314/167572.ts
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY61OFA0W0tVIiu0yK6dmeI5Wxhhak6k-NOW-y0uuXcE8yVIkSXRu7zNw&s",sony ten 4
-http://xtv.ooo:8080/RiyazMPT/433833/167595
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY61OFA0W0tVIiu0yK6dmeI5Wxhhak6k-NOW-y0uuXcE8yVIkSXRu7zNw&s",sony ten 5
+http://xtv.ooo:8080/live/adnankb2006/86057314/167580.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-fc1hTMYGNjcjISSQ8rHi9a_syHuSvJEdmLSet-lEkPTh5t4JaNaxg&s",super sports cricket
 http://xtv.ooo:8080/live/adnankb2006/86057314/238475.ts
