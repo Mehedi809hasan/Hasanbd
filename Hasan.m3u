@@ -221,7 +221,7 @@ http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4566.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",R tv
-https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1717780740&md5=nZUYw-QWMLx_yv6Ta1cquA&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=jWlIBOJwQQ6QRiHxlYJ1pg&expires=1717787162&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
