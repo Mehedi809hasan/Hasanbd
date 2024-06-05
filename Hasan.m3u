@@ -190,7 +190,7 @@ https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=bLBnHd7LO
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=PN7R8pnaZODV4w8T5K7qnQ&expires=1717652750&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://xtv.ooo:8080/live/adnankb2006/86057314/245920.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=ztu20-Bfk6cC7ylaKenGeg&expires=1717816461&user=c15be118d93a464dabf77260596012cf
