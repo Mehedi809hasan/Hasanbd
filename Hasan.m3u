@@ -668,7 +668,7 @@ http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrnI7zGUuaJBC6a_tXiZE9kXGuvcAm-HwSKICBZvIbw&s",Akash 8
-http://filex.tv:8080/live/mndr111/mndr111/288258.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=79&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/zeebangla.png?w=640",zee Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:DF:A6
