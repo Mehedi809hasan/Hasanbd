@@ -674,7 +674,7 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/245928.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",zee bangla cinema
-https://otttv.co.in/dishtv/playlist.m3u8?id=zee-bangla-cinema&vtoken=&e=.m3u8
+https://otttv.co.in/dishtv/playlist.m3u8?chunks=79251d477e5327899e259f5135cc31fb6d0e404be386bb85243d3ceb4988cfde972a9a887cbda470c6b90a7088be8c1481349c292747327692e69a067c77b5c3226c59bdfec989196d1cafeb5a93466e2f45c647e6c0473a6d84f9759236b9fccda8f2a3627d326a9de2ab4e87502d60a0f4285dabd8b6005236f9ad922e828cb31feefa3a8206c3b61053b7cd3d4e3d&vtoken=
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqI-6WS45nFkM6P4rpTEb9C4PFy7WcR7FgOVYY_CBjg&s",Star jalsha
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
