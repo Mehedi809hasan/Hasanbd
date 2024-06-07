@@ -53,7 +53,7 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=kMbRH6IGVOw9
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=16v8_1vY8wj9lMQXHykplw&expires=1717816221&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
-https://www.btvlive.gov.bd/streams/cbc72438-8fc9-4dc8-8827-4f9ee2946a03/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=HyGHHx1IFJ4iaAW27xyQAQ&expires=1717989941&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=14IBFI_76MF2ZY6rWohiCQ&expires=1717879633&user=c15be118d93a464dabf77260596012cf
