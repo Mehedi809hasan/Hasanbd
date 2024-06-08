@@ -75,7 +75,7 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/245920.ts
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+http://195.26.87.217/live.ts?channelId=99&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=QSLJd_qQVIZgWwrZH6fCCQ&expires=1717954489&user=c15be118d93a464dabf77260596012cf
