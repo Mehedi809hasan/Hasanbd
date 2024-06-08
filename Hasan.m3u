@@ -138,7 +138,7 @@ https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=NbqhoXsFkeRq24BYVH8elw&expires=1717911061&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=E0advcpQL8eprQr1Zz3aUA&expires=1717783598&user=c15be118d93a464dabf77260596012cf
+http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://tv.bdix.app/chlogo/atnbangla.webp",Atn Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=u0tl44xokN9wX29RdfsdJQ&expires=1717783553&user=c15be118d93a464dabf77260596012cf
