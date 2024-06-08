@@ -60,7 +60,7 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=HyGHHx1IFJ4ia
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=14IBFI_76MF2ZY6rWohiCQ&expires=1717879633&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=U55Ij9zOLwl5p1df8Nc4-g&expires=1717783319&user=c15be118d93a464dabf77260596012cf
+http://xtv.ooo:8080/live/adnankb2006/86057314/245915.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=AGLfKHKTp4ITxTNM0DV6LA&expires=1717786926&user=c15be118d93a464dabf77260596012cf
