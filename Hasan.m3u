@@ -14,6 +14,8 @@ http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies a(Auto quality)
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=78hjxG-bNxFxblHCURZiIA&expires=1718081130&user=c15be118d93a464dabf77260596012cf
@@ -306,9 +308,6 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1-hNRktdaNndiqJ0jnocLBAxIyHJp_VLFZDboeKQZQ&s", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -325,9 +324,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:D
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSzHRpxXk0avaaVCcwUXkTdNSvFqs48sc6PwfKZxI6NINaHv97qBEBmU&s",Colours Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 
-
-#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies a(Auto quality)
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse8o46jzAUKwQ3LNcpwBan0crIL-J5Sbwhfhe3lJydw&s",Sony Aath
