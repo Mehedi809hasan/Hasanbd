@@ -87,7 +87,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=kgeV8tXrQTXgM4S9P4SJ7A&expires=1718077645&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=QSLJd_qQVIZgWwrZH6fCCQ&expires=1717954489&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?expires=1718171015&md5=OyH3ngkOLdOJSeGUwiS9mw&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=TvGpeJH38H1WkpFb930eYA&expires=1718080793&user=c15be118d93a464dabf77260596012cf
