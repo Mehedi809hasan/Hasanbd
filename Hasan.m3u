@@ -198,6 +198,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
+http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 
@@ -287,9 +289,6 @@ http://xtv.ooo:8080/malik625538/digitalstore1year/112973
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s",Bflix Movies
 http://xtv.ooo:8080/live/adnankb2006/86057314/104190.ts
 
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
-http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5hDA3PGbVxNsB208GxMHPud5_SMp-G6uJTeUkCQqjJBEgoE1m_HXalA&usqp=CAE&s",Star Gold select
