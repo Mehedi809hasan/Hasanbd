@@ -8,8 +8,7 @@
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
-http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
-
+http://176.119.29.52/live.ts?channelId=237&uid=783&deviceMac=00:1A:79:02:38:C6
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
