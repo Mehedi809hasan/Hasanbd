@@ -164,6 +164,10 @@ https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x50681",Bangla21 Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI0IDc6MTk6MjggQU0maGFzaF92YWx1ZT1KSDdnU3B6Z05hdlp5ZmFDOVRDaWpRPT0mdmFsaWRtaW51dGVzPTQw
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi Tv
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6T_zSHgNIySYrTLC29sWYaLbvhA8VhtRNf8mxWwQKxw&s",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
