@@ -571,7 +571,7 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/167580.ts
 http://xtv.ooo:8080/live/adnankb2006/86057314/238475.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=35530&uid=3960&deviceMac=00:1A:79:09:AC:16
+http://xtv.ooo:8080/global/global/167594
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmQ3gkiYWF1Pvc0k3K-uiT3YNDF1MX-BgtQ&s",Willow Hd
 http://xtv.ooo:8080/live/adnankb2006/86057314/167583.ts
