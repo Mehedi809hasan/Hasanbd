@@ -164,6 +164,9 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6T_zSHgNIySYrTLC29sWYaLbvhA8VhtRNf8mxWwQKxw&s",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",Nobanno TV
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cmtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI0IDI6NTA6MjAgUE0maGFzaF92YWx1ZT1PeGNVNExZMWVWWVJKazN6VC9iWEJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQX7SOjr_3VHiO2S7vE2Iv0SQ_lc77mvN65ZJw1llz7eYNDc0PiiBTao&s",Channel Europe
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
 
@@ -200,6 +203,17 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
+
+
+
+
+
+
+
+
+
 
 
 
