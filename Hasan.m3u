@@ -83,7 +83,7 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=beI4zA3GTkAj
 http://176.119.29.52/live.ts?channelId=103&uid=783&deviceMac=00:1A:79:02:38:C6
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
-http://176.119.29.52/live.ts?channelId=99&uid=783&deviceMac=00:1A:79:02:38:C6
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=ZBdLi-i7gRUMarl46eNc3A&expires=1718314504&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=FBuS0-bf3jbQ0b1FJqTg4A&expires=1718202556&user=c15be118d93a464dabf77260596012cf
