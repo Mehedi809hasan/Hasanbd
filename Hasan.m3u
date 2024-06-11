@@ -89,6 +89,12 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=beI4zA3GTkAj
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
 http://176.119.29.52/live.ts?channelId=103&uid=783&deviceMac=00:1A:79:02:38:C6
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png",nexus tevision
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=mj8Ddp2QaTVkOPKqnphj-w&expires=1718298413&user=c15be118d93a464dabf77260596012cf
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=ZBdLi-i7gRUMarl46eNc3A&expires=1718314504&user=c15be118d93a464dabf77260596012cf
 
@@ -127,12 +133,6 @@ https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=bRjGV0iKgU6Uq
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaQ1N38DkYV96s5Q4-yKFjGkSSmt8TZDS_hS2GOCQ=s900-c-k-c0x00ffffff-no-rj",Biswa bangla 24
 https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png",nexus tevision
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=mj8Ddp2QaTVkOPKqnphj-w&expires=1718298413&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://tv.bdix.app/chlogo/atnbangla.webp",Atn Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=XZrLzRk-Ja3P2DMsGEGTVw&expires=1718298464&user=c15be118d93a464dabf77260596012cf
@@ -181,6 +181,9 @@ https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxlGs2gtuzUBvJ1u1FjTxEwdjOcc2weIq1bg&s",NRB Tv
 https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10", Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
