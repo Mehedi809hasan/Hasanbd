@@ -34,6 +34,12 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwm5KYiY6FKR1Git8mzDl0rbdASBm4M_QR8qoT8pLyFw&s",DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=yDu_vD8EXMOEfrBkQBN44g&expires=1718297877&user=c15be118d93a464dabf77260596012cf
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gan Bangla
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=1J4BQMey7Ta46QB-qYow0Q&expires=1718298339&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=bRjGV0iKgU6UqRaoiPEZ_Q&expires=1718298373&user=c15be118d93a464dabf77260596012cf
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x50681",Boisakhy Tv
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=sZ7TWV8QQG-ev3GC884CUg&expires=1718297577&user=c15be118d93a464dabf77260596012cf
 
@@ -45,6 +51,9 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=uQkPCba34QZ3
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=K18wbf3b93H2O2kEvgHvaQ&expires=1718129929&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",R tv
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=3uJ5NokXv0W_8lD_-jF_vQ&expires=1718298300&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg=s88-c-k-c0x00ffffff-no-rj",News24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=sNkkYguPjYkbYM4A4jToew&expires=1718314425&user=c15be118d93a464dabf77260596012cf
@@ -121,17 +130,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",R tv
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=3uJ5NokXv0W_8lD_-jF_vQ&expires=1718298300&user=c15be118d93a464dabf77260596012cf
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=1J4BQMey7Ta46QB-qYow0Q&expires=1718298339&user=c15be118d93a464dabf77260596012cf
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=bRjGV0iKgU6UqRaoiPEZ_Q&expires=1718298373&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaQ1N38DkYV96s5Q4-yKFjGkSSmt8TZDS_hS2GOCQ=s900-c-k-c0x00ffffff-no-rj",Biswa bangla 24
 https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
