@@ -105,7 +105,7 @@ http://176.119.29.52/live.ts?channelId=103&uid=783&deviceMac=00:1A:79:02:38:C6
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=mj8Ddp2QaTVkOPKqnphj-w&expires=1718298413&user=c15be118d93a464dabf77260596012cf
+http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=4uXSThfXVQ9rTZqgYPkBvQ&expires=1718376057&user=c15be118d93a464dabf77260596012cf
