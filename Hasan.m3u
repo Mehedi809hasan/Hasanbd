@@ -26,6 +26,9 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVCncywRWE_cEwNcbF5AF19LcJJuyThdjhwI1bfmtRw&s",Bangla Movie
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16569.ts
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
+http://lifetvbd.xyz:8080/live/12345/12345/76.ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=plQ1V5OPlzWRKtcPVz1JVA&expires=1718297826&user=c15be118d93a464dabf77260596012cf
 
