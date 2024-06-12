@@ -602,7 +602,7 @@ http://opplex.tv:8080/live/umera1234/2345678/238475.ts
 http://xtv.ooo:8080/global/global/167594
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmQ3gkiYWF1Pvc0k3K-uiT3YNDF1MX-BgtQ&s",Willow Hd
-http://xtv.ooo:8080/live/adnankb2006/86057314/167583.ts
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:BF:0D:F6&stream=1104677&extension=ts&play_token=2bYKdnwBu8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGZRA8hOb8_K5c8mKMHg6b81NfripGEH2RQ&s",toffee
 https://emdftinya.tinyuri.org/wred.php?id=english
