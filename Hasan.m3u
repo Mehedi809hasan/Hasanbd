@@ -148,7 +148,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 http://lifetvbd.xyz:8080/live/3363696/3363696/1803.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnB2jd613xx1IAMPXi1TTNAu1bdkB-i02v9kxqqeN0A&s",Atn Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=XZrLzRk-Ja3P2DMsGEGTVw&expires=1718298464&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/167.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfg86iaLB009swN_zMfc2Zxh6PLhXsku7S1w&s",Atn Bangla Uk
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDoxMToxOCBQTSZoYXNoX3ZhbHVlPTF3dERtR2xPRXpqV3h6SDU3ZGdCdHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
@@ -157,7 +157,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7GBB-kgtxMwGCGStiRYOrVZzCpvCOMNTdCgAhg97zrlYyEvZto-4Oydc&s=10",Atn Music
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDoxNjo1NyBQTSZoYXNoX3ZhbHVlPXZKcVBOZUprcGF6ZmJNTkZmWmgyVlE9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://lifetvbd.xyz:8080/live/3363696/3363696/217.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png?w=640&ssl=1",channel S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
