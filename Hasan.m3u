@@ -103,37 +103,37 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/86.ts
 http://lifetvbd.xyz:8080/live/3363696/3363696/372.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
-http://176.119.29.52/live.ts?channelId=103&uid=783&deviceMac=00:1A:79:02:38:C6
+http://lifetvbd.xyz:8080/live/3363696/3363696/3703.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YC1BUCcKUL_MYCNZjmoJnD3ZYFXSA2qm_g&s",nexus tevision
-http://tv.digitalview.live:8080/live/tawhidbdix2/700570076/388.ts
+http://lifetvbd.xyz:8080/live/3363696/3363696/79.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
-http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://lifetvbd.xyz:8080/live/3363696/3363696/43.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=4uXSThfXVQ9rTZqgYPkBvQ&expires=1718376057&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/119.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=rzKBAXsMS0hdrwK84wdBbg&expires=1718376100&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/84.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=tlcwTjQBr93vWOY0bNj7cA&expires=1718376130&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/326.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla tv
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=3632355
+http://lifetvbd.xyz:8080/live/3363696/3363696/371.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/9354.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=984RLIC_War6OoYLegCuoA&expires=1718298247&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/228.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTOzkHjUpNUd3hWUIm4H93yHAqlY3dn0NLZ5Zt49w=s900-c-k-c0x00ffffff-no-rj",Jagonews24 Tv
-https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/38.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9VSvBwVCj8h8GCTEBeNYwhNUUyAyY_B3FwSqLj_XGw&s",Desh Bidesh TV
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/4029.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
@@ -145,7 +145,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/8753.ts
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaQ1N38DkYV96s5Q4-yKFjGkSSmt8TZDS_hS2GOCQ=s900-c-k-c0x00ffffff-no-rj",Biswa bangla 24
-https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/1803.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnB2jd613xx1IAMPXi1TTNAu1bdkB-i02v9kxqqeN0A&s",Atn Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=XZrLzRk-Ja3P2DMsGEGTVw&expires=1718298464&user=c15be118d93a464dabf77260596012cf
