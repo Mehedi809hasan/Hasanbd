@@ -43,7 +43,7 @@ http://46.250.234.136:8080/3363696/3363696/171
 http://46.250.234.136:8080/3363696/3363696/212
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-http://46.250.234.136:8080/3363696/3363696/3704
+http://lifetvbd.xyz:8080/live/3363696/3363696/3704.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1l5L2pqMFJjXs10rQPG86XmRf7U8Bkva5a-nwWPwX1g&s",Boisakhy Tv
 http://46.250.234.136:8080/3363696/3363696/170
@@ -188,25 +188,25 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNFFHkehxIs9L_gFtFxUAAKY1zm6GT0BeFQ&s",Jagoroni Tv
-https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/1727.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9-_kJo4_lHZZf8SVQWpKwiBYHlM3_8PDEw&s",Jonmobhumi Tv
-https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/41.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5xeoDhoxuPbYpcfX4Hirl-c0yjqgThwW2w&s",NAN Tv
-https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/45.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxlGs2gtuzUBvJ1u1FjTxEwdjOcc2weIq1bg&s",NRB Tv
-https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/48.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10", Amar Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/3692.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAfiCavphV5BeHoNg5ZV62RHqVAyLtFC1H-JL0DR64n8Z5aXxzNrwTOs&usqp=CAE&s",Rajdhani Tv
-https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/5625.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s",Nandan Tv
 https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
@@ -214,15 +214,15 @@ https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshy Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery(multi audio)
-https://nowmetv.com/delta/discovery/api/Discovery_Channel.m3u8
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery Bangla
+http://lifetvbd.xyz:8080/live/3363696/3363696/21.ts
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet(hindy)
+http://lifetvbd.xyz:8080/live/3363696/3363696/18.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
-http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://lifetvbd.xyz:8080/live/3363696/3363696/42.ts
 
 
 
