@@ -136,7 +136,10 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/380.ts
 http://lifetvbd.xyz:8080/live/3363696/3363696/326.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/371.ts
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=1516619
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmuyF72SaPzg7AReWJbFRMZKWkXOWywCusQ&s",Bangla Tv Europe
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8?sessId=1516654
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
 http://lifetvbd.xyz:8080/live/3363696/3363696/9354.ts
