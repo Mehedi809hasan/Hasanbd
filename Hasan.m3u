@@ -354,30 +354,35 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=15610
 
 
 
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RHzWjCYkTpbAPKYN9KySmm8AKWy9Ht8bkPwXBqREBA&s",Goldmines
-http://xtv.ooo:8080/malik625538/digitalstore1year/112972
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfO55hVYlfRN83uSV8W45Oi1BxLCSTdjNFog&s",Star Gold
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1556.ts
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s" Star Gold 2
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4491.ts
 
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-uS2-dhDYt3dUpQPRPtp8PuJ8qGSGVyuN3GpC6HKMA&s",Goldmines Bollywood
-http://xtv.ooo:8080/malik625538/digitalstore1year/112973
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold Romance
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/3436.ts
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMljiY3yM_zNsqVOdRxY2Z-zl8_gO7OhGX6gg1ZiAUBnZzKtMPnW4wYcM&s=10", Colors cineplex superhit
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4239.ts
 
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s",Bflix Movies
-http://xtv.ooo:8080/live/adnankb2006/86057314/104190.ts
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWTRH4c50TLs3tDs2BwGU6hH9bjgR0Qw0GQ&s",Colour cineplex Bollywood
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4239.ts
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6D8-FA7DEkTgzOvLKxKzhJTB67WHg8BFQYA&s",Colour cineplex
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2849.ts
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrhqb6J3yGM6UXgkKeLRr0LB6n5s3akHapA&s",Goldmines
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4731.ts
 
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5hDA3PGbVxNsB208GxMHPud5_SMp-G6uJTeUkCQqjJBEgoE1m_HXalA&usqp=CAE&s",Star Gold select
-http://xtv.ooo:8080/15155419/16175512/221257
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqe3t_iYl8oKacg-RP6L79x_yGzGkHCOGRg&s",Goldmines Movies
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13291.ts
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDfrhgTU0JVAfK1b9hVEjsKqzT_wiyKSXjJO-sQ2DLVbMR3gzUonCjmQ&s=10",All time Movies
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4834.ts
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf2MvXR9QSgy-j_veyW0wJC2tibCblMk-di5a9LQh-A&s",south Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3wgu3ScO8d0Vmb75AUefU8ex2WzsrsgH_L2G2kOuZ3K_9dQ3AgDC8t8&s",Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-
 
 
 
