@@ -165,7 +165,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/228.ts
 http://lifetvbd.xyz:8080/live/3363696/3363696/38.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9VSvBwVCj8h8GCTEBeNYwhNUUyAyY_B3FwSqLj_XGw&s",Desh Bidesh TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/4029.ts
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
