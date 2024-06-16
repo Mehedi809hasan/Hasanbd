@@ -22,8 +22,6 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
 http://lifetvbd.xyz:8080/live/3363696/3363696/3628.ts
@@ -246,7 +244,8 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/42.ts
 
 
 
-
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHm1tZ39MdH7sAM5wDdN1iLTKn3TyfH61aA&s",Akash aath
 http://lifetvbd.xyz:8080/live/3363696/3363696/31.ts
