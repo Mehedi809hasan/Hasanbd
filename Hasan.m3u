@@ -23,9 +23,6 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
-http://lifetvbd.xyz:8080/live/3363696/3363696/3628.ts
-
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOjRXZkYInmgyIbQ35jNGcrAzBJ6Xf9mEyQ&s",Fifa Plus
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -243,6 +240,9 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/42.ts
 
 
 
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
+http://lifetvbd.xyz:8080/live/3363696/3363696/3628.ts
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
