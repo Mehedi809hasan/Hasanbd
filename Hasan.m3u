@@ -217,9 +217,6 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/45.ts
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxlGs2gtuzUBvJ1u1FjTxEwdjOcc2weIq1bg&s",NRB Tv
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8?nimblesessionid=1227954568&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI0IDU6MTA6MzMgQU0maGFzaF92YWx1ZT1oQXRCeHhIblpLOWFXZjUyU2FodUhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10", Amar Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/3692.ts
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAfiCavphV5BeHoNg5ZV62RHqVAyLtFC1H-JL0DR64n8Z5aXxzNrwTOs&usqp=CAE&s",Rajdhani Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/5625.ts
 
@@ -274,9 +271,8 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/11.ts
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pNB7SPMAum89xMi11CihHrAnK12aodShachkm2Ow-YCAuCKr1IYyRdk&s=10", zee Bangla cinema
 http://lifetvbd.xyz:8080/live/3363696/3363696/7.ts
 
-#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse8o46jzAUKwQ3LNcpwBan0crIL-J5Sbwhfhe3lJydw&s",Sony Aath
-https://toxicify.pro/sliv/stream.php?id=sony-aath&e=.m3u8
-
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10", Amar Bangla
+http://lifetvbd.xyz:8080/live/3363696/3363696/3692.ts
 
 
 
