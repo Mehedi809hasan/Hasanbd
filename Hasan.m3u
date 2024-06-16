@@ -12,6 +12,9 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16538.ts
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=783&deviceMac=00:1A:79:02:38:C6
 
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbw3nlytZ69bpbqb7fm7gWMg9Bc7i6lF8ErKux0uEJw&s",Islamic Lacture
+http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/68268.ts
+
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMyymd4Tv9LQPYmOm_x2g_zfcwJFKTB7wVw&s",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
