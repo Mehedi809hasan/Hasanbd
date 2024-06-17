@@ -24,8 +24,6 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i.ibb.co/FhG13g0/Female-4-2025-Bengali.webp",Female 4 Natok
-https://otnfip7097.guardstorage.net/hls_3/Tsfcmswq2IwcgIaMbaUQRNDDn0npFJbmncXTuFPCuaFzEfhS5Zc3HAAkrlIPch2lOgsxttO5T8158VLMKIaA7xui59Dpvc1IYPJtGQhCXV5VwpBR0xk1GZ8H6htXp9iQsf4FzgifoC8TnzPZvTp-JLBOCsZvSt89ojkLlP1UVRy5zRAXMMVkZiiS2jBGn04PXY_TIZJbcpxmcbrtAb1b1g/index-f1-v1-a1.m3u8?sig=vrv5ARMhE2PojI6vo904GQ&expires=1718644748
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOjRXZkYInmgyIbQ35jNGcrAzBJ6Xf9mEyQ&s",Fifa Plus
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -35,6 +33,9 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16569.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv(live time only)
+https://ythls.armelin.one/channel/UCvmFHb_tbHx59TvXMldoRQQ.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
 http://46.250.234.136:8080/3363696/3363696/39
