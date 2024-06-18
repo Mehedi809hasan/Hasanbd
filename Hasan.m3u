@@ -247,6 +247,10 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/42.ts
 
 
 
+
+
+
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
 http://lifetvbd.xyz:8080/live/3363696/3363696/3628.ts
 
@@ -361,6 +365,9 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:BF:0D:F6&stream=1104677&ext
 
 
 
+
+
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6k-6YbnOt4HZLlWEyAwKq2efiSWUGpUEpbIJUgdrule3UQNSh3aRXmc&s",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
@@ -394,6 +401,10 @@ http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
 
 
 
+
+
+
+
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony sports ten 2
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13366.ts
 
@@ -403,10 +414,8 @@ http://xtv.ooo:8080/adnankb2006/86057314/221254
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony set
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1391.ts
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SqJKPCiQJD4JWoDwz7F8DETCYgS1WW_oE2nB8aW4iA&s",sony Max 2
 http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -415,22 +424,17 @@ http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjPPFmz4B3iN2GJ8V95sLoxdLd_K40XHPgw&s",Sony Pix
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHC48SZoY6K6qpWGzfHz5O6uKJNJ1jUhg4QQ&s",Sony Kal
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4709.ts
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo6IrtNoQvKMvS3x5WzS9B30fAXqld_R3jhmzv8ZkOQ&s",Sony Wah
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1385.ts
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1r2ijy07km5OkL7Z7w6KitmgmYuREBbaPUf9Yp160w&s",Sony Pal
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156101&extension=ts&play_token=iJ6F4DNZLL
@@ -631,6 +635,10 @@ http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/67901.ts
 
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CCcwUTPhZ605ybKaC7ccq4y9Ptl5srQGcAh4xsMu3jhsdZLMgVnDlRmj&s=10", WB Cartoon
 http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/67902.ts
+
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruVJutmTzTNSFBfI_s13cO6NXZ0uuaaHfG0hKQ4cNLOU4loi8neW0gGM&s=10", Mr Bean
+http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/68467.ts
+
 
 
 
