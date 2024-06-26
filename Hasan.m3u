@@ -39,7 +39,7 @@ http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLGcYQ3bXZnSyjB74K75RsSc/ts
 https://ythls.armelin.one/channel/UCvmFHb_tbHx59TvXMldoRQQ.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
-http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
+http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s",Ananda tv
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1312.ts
@@ -48,34 +48,34 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1312.ts
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16509.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=NgNKQrn-gJO-rpKPDMtFog&expires=1719367871&user=c15be118d93a464dabf77260596012cf
+http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1l5L2pqMFJjXs10rQPG86XmRf7U8Bkva5a-nwWPwX1g&s",Boisakhy Tv
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=_ixX3-EFUyaIT_7iAJFr4A&expires=1719368751&user=c15be118d93a464dabf77260596012cf
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1305.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2317.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu485EEixjld-Hdl9ylWq9Ouzp9oNEQkuPQ&usqp=CAU",G Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=SchYsBc8zXuT7DEZgVelSg&expires=1719368096&user=c15be118d93a464dabf77260596012cf
+https://evbr.short.gy/BDStreamHub.Gazitv.m3u
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=kKn-pjXEA66U1YuHDbb2Bw&expires=1719382512&user=c15be118d93a464dabf77260596012cf
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",R tv
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=BnNYeXZGHjXYeb6OFZwbng&expires=1719365171&user=c15be118d93a464dabf77260596012cf
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg=s88-c-k-c0x00ffffff-no-rj",News24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=NbwZVLqoPJIuYWDxh3LbfA&expires=1719367622&user=c15be118d93a464dabf77260596012cf
+http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=zVIygJ0yH-Z25hrK6tV1cg&expires=1719367519&user=c15be118d93a464dabf77260596012cf
+https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=guadbme_Vo1WFEPefCDD9Q&expires=1719368170&user=c15be118d93a464dabf77260596012cf
+https://evbr.short.gy/BDStreamHub/btv_world.m3u
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/80.ts
@@ -90,7 +90,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/30.ts
 http://lifetvbd.xyz:8080/live/3363696/3363696/83.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy Tv
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=4teoJH8uxdvP0sdXtuiM3A&expires=1719368044&user=c15be118d93a464dabf77260596012cf
+http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
@@ -108,10 +108,10 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1625.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vison
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=Aq8Pw9xwPW2iAGzJ0oWsIQ&expires=1719368617&user=c15be118d93a464dabf77260596012cf
+https://evbr.short.gy/BDStreamHub/Bangla_Vision.m3u
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=FHOl-KoZJWXMWcFyf4bjYw&expires=1719368545&user=c15be118d93a464dabf77260596012cf
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1315.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1309.ts
