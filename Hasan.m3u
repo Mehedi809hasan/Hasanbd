@@ -152,29 +152,11 @@ https://evbr.short.gy/BDStreamHub/Duranto_Tv.m3u
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24
-https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaQ1N38DkYV96s5Q4-yKFjGkSSmt8TZDS_hS2GOCQ=s900-c-k-c0x00ffffff-no-rj",Biswa bangla 24
-http://lifetvbd.xyz:8080/live/3363696/3363696/1803.ts
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",cumilla tv
 http://103.149.142.133/0.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-S45b1EdGyLVfOtyZ7iuJGGjpoFENzUes5A&usqp=CAU",B24C
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDoyMDowNiBQTSZoYXNoX3ZhbHVlPU9CY3hnQTVkSEZXcWl3SXR5UDV1c0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/S-QqFRm7a6OcA_D740AuHtapOJh7l1e4BhBa2jlQblI8P8H6YWYQUPzJoq4wO83Xx_iImWXUhww=s900-c-k-c0x00ffffff-no-rj",Time tv Bangla
-https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6T_zSHgNIySYrTLC29sWYaLbvhA8VhtRNf8mxWwQKxw&s",KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",Nobanno TV
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cmtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI0IDI6NTA6MjAgUE0maGFzaF92YWx1ZT1PeGNVNExZMWVWWVJKazN6VC9iWEJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQX7SOjr_3VHiO2S7vE2Iv0SQ_lc77mvN65ZJw1llz7eYNDc0PiiBTao&s",Channel Europe
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
