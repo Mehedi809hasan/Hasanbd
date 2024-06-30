@@ -11,10 +11,6 @@ https://evbr.short.gy/Bdstreamhub_Toffee_Copa_America.m3u
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1s-6NjHOVJU8i55NDRot-j1cz5woDflMPzTI4mS9OVkQFc_klbbWHD0&s",Bollywood Movie
-
-http://xtv.ooo:8080/live/15155419/16175512/341039.ts
-
 
 
 
@@ -338,11 +334,8 @@ http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
 
 
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony sports ten 2
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13366.ts
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4-OcPzx0tL-lYGYzGO2uQ12bpq9y22sOEpWnjOiBYrpPy7id5zcO-p4&usqp=CAE&s",Colours Hd
-http://xtv.ooo:8080/adnankb2006/86057314/221254
+
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony set
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1391.ts
@@ -378,13 +371,13 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=15610
 
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfO55hVYlfRN83uSV8W45Oi1BxLCSTdjNFog&s",Star Gold
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1556.ts
+http://xtv.ooo:8080/live/15155419/16175512/66177.ts
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s" Star Gold 2
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4491.ts
+http://xtv.ooo:8080/live/15155419/16175512/106133.ts
 
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold Romance
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/3436.ts
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold thrillas
+http://xtv.ooo:8080/live/15155419/16175512/221258.ts
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMljiY3yM_zNsqVOdRxY2Z-zl8_gO7OhGX6gg1ZiAUBnZzKtMPnW4wYcM&s=10", Colors cineplex superhit
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4239.ts
