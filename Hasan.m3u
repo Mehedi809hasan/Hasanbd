@@ -7,17 +7,11 @@ islamic
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9GmFXm6WqYydjyccpO4Aa6mc3GMfNNSG_g&usqp=CAU", Copa America
 https://evbr.short.gy/Bdstreamhub_Toffee_Copa_America.m3u
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1OR_DrFc8LiDbDkTMEeNmi5190DnKDM-KkA&s",Surah Live
-http://xtv.ooo:8080/live/15155419/16175512/220060.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbw3nlytZ69bpbqb7fm7gWMg9Bc7i6lF8ErKux0uEJw&s",Islamic Lacture
-https://icloud-storage.cdncloud.store/?query=d2h2dy8xMTgxMTQyNDE2LnBueT91aHZzcnF2aC1mcnF3aHF3LWdsdnNydmx3bHJxPWR3d2Rma3BocXclM0UlMjBpbG9ocWRwaCUzRyUyMkZscWhHcmNoLkZycC1VZG1ueHBkdSUyMCUyODIwMjQlMjklMjBQT1ZFRy5Wa3JzLUVocWpkb2wlMjBFcnFqckVHJTIwNzIwcy5wbnklMjImQS1EcGMtRnJxd2hxdy1Wa2QyNTY9WFFWTEpRSEctU0RCT1JERyZBLURwYy1Eb2pydWx3a3A9RFpWNC1LUERGLVZLRDI1NiZBLURwYy1GdWhnaHF3bGRvPTU2N2k5MjQ3NDAxZTYxZmhmZTBpMDk0Mzg3ZTNmMjYyJTJJMjAyNDA2MjklMklkeHdyJTJJdjMlMklkenY0X3VodHhodncmQS1EcGMtR2R3aD0yMDI0MDYyOVcwNjQ2NTFDJkEtRHBjLVZsanFoZ0toZGdodXY9a3J2dyZBLURwYy1IYXNsdWh2PTEwNzk5JkEtRHBjLVZsanFkd3h1aD1paTkwMzc4ZDQ3N2g3NzRlNTQ3M2c4ZmhlMjZmZDVlMjFnM2VlaGk3NjA0MzIzMmc3OGQ1NmZlMmlnOGg1Z2Q2
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMyymd4Tv9LQPYmOm_x2g_zfcwJFKTB7wVw&s",Azan TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
 
 
@@ -275,7 +269,7 @@ http://xtv.ooo:8080/live/global/global/371470.ts
 http://xtv.ooo:8080/live/global/global/371471.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgU9kzIIHNuuCEvmezOgCM2-XTpk1pcognHOIDy3eU0oBxroi1VTuSlIQ&s",sony ten 1
-http://xtv.ooo:8080/live/adnankb2006/86057314/167570.ts
+http://95.214.234.140/live/15155419/16175512/167570.ts?token=GhMNBEZcR1gRUlEMVgNRVQFXB1UCVF4JVQJUAgZeAFtSAABSAQUEVFBEGBoXEhZRBVtrXgVGAgFUUQIDAxQUFhJUFzpcUEdYEV4HD1ZQVBZIFEBeDAEaClNRBg0ECgBaVwJJR0VdAUAJRAYNUlJVFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNUGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVwxcBBYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZUXQRSARZK
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1WVXLGYZVBR0nZffkxXBExG8ffv0JW9K3lO0HCfeRuQ0cF_1YTexIaQ&s",sony ten 2
 http://xtv.ooo:8080/live/adnankb2006/86057314/167571.ts
