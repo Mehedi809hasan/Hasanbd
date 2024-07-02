@@ -215,10 +215,10 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/494.ts
 http://lifetvbd.xyz:8080/live/3363696/3363696/2138.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYt_tdZ3HYZO0zbHKxDJxrphZ1Le5KsTHWBNjh_ed2sF09UaBJBTBKjNKW&s=10",zee Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/11.ts
+http://ctgbox.com:8081/roarzone/bk/34/mono.m3u8?token=ee648abf9ccc68677ac0911fc02fd4ea03231423-28bef02e41778e56b8ec24f501c42576-1719925573-1719914773&remote=103.185.24.1
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pNB7SPMAum89xMi11CihHrAnK12aodShachkm2Ow-YCAuCKr1IYyRdk&s=10", zee Bangla cinema
-http://lifetvbd.xyz:8080/live/3363696/3363696/7.ts
+http://ctgbox.com:8081/roarzone/bk/29/mono.m3u8?token=af23efd528dff428e52c9b5d3a620ed63a989997-f8f70c50f7c7d1f8089019d8e12a24d4-1719925603-1719914803&remote=103.185.24.1
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10", Amar Bangla
 http://lifetvbd.xyz:8080/live/3363696/3363696/3692.ts
@@ -288,7 +288,7 @@ http://xtv.ooo:8080/live/15155419/16175512/167572.ts
 http://xtv.ooo:8080/live/15155419/16175512/167595.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBd7SNCzbx-mvHPFpbyLtpR3Y8EV7RpyWX-Mg_a78Hg&s",sony sports 5
-http://xtv.ooo:8080/live/15155419/16175512/167580.ts
+http://ctgbox.com:8081/roarzone/bk/22/mono.m3u8?token=2bb6596974e8b6a65d603c5c55b3421be781a1d2-0474a87f4214db0b6f833a7d8129ac40-1719925322-1719914522&remote=103.185.24.1
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-fc1hTMYGNjcjISSQ8rHi9a_syHuSvJEdmLSet-lEkPTh5t4JaNaxg&s",super sports cricket
 http://xtv.ooo:8080/live/15155419/16175512/238475.ts
