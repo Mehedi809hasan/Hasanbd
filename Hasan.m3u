@@ -571,7 +571,8 @@ http://xtv.ooo:8080/live/global/global/311774.ts
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPO2rYkYAm5oKUcbbEzuya5IvGDOuHakmwp0iQbEimQ&s",24/7 Masha and the Bear
 http://xtv.ooo:8080/live/global/global/301506.ts
 
-
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizNyesByo3SAX_k7rHwCKRJHdxyNDOe7oMhiLfuDEh-VgnOC_ovye5NU&s",Nick
+http://ctgbox.com:8081/roarzone/bk/55/mono.m3u8?token=c71449651395faa3e5885173838698a720038b88-1229568149868fd22cd4502875a63087-1719926845-1719916045&remote=103.185.24.1
 
 
 
