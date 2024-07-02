@@ -89,7 +89,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=PGZhfTnXv1yQ
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719969481/ei/aVKEZpD5CZ6tjuMP_KaHkA0/ip/162.158.34.134/id/lrsZN0SKyNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAYx3ZWMKGOHMAB5rF6nJG1ZhQNrxsiq1eoJVkddfHnUE-qbagnBfLQK8tl8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJWhs97wnQYYG8chKRtabc954LYbu1RpTpa1DGg0WPCwCIAwkWr-wVQZFf7qM3f8TVDluG1FruVDrrHy4Jrm4crV_/file/index.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
