@@ -103,7 +103,7 @@ https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=viwimB5iMpYWDuljIbN
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vison
-https://evbr.short.gy/BDStreamHub/Bangla_Vision.m3u
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=lvkdsN0IvNZPCeZ9PMn0OA&expires=1720248175&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
