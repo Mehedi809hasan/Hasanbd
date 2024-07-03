@@ -127,7 +127,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=5IEsxdfos6XLL
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=Hj3xEFnZUY0r3-4Jnle-pw&expires=1720150927&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9JCLpWcLDnzsCtn0_3wIb7KhzrHg40CJOWN65CRVZ-9AY70gGh9wjfo&s",Atn News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719950982/ei/JgqEZuWdLsHAvcAP3NGEwAY/ip/162.158.34.130/id/rc3f4HAGno8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdX8WEfkKy4PnFD6ltvHyJhlQMAn43sswKJ0cs_8cAkpq7AdCA4vUUMVQbo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALAbGhRTYG5Vr1f-htDIjL4rIzs12QlTPKU-b3G5_OHqAiEAuXEFTX4jqP546cSaLksTfRKDq-J0PbMv2ELkR_Rikag%3D/file/index.m3u8
+http://hdhd.tk:80/live/Giovanni/Giovanni/7200.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=tpiFn1s-cg4GhXpue8yHzQ&expires=1720150777&user=c15be118d93a464dabf77260596012cf
