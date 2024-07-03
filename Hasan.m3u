@@ -127,7 +127,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=5IEsxdfos6XLL
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=Hj3xEFnZUY0r3-4Jnle-pw&expires=1720150927&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9JCLpWcLDnzsCtn0_3wIb7KhzrHg40CJOWN65CRVZ-9AY70gGh9wjfo&s",Atn News
-http://hdhd.tk:80/live/Giovanni/Giovanni/7200.ts
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=JDgFhd5sa2e3bTvLCeo4Dg&expires=1720237889&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=tpiFn1s-cg4GhXpue8yHzQ&expires=1720150777&user=c15be118d93a464dabf77260596012cf
