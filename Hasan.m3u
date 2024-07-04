@@ -58,7 +58,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu485EEixjld-Hdl9ylWq9Ouzp9oNEQkuPQ&usqp=CAU",G Tv
-https://evbr.short.gy/BDStreamHub.Gazitv.m3u
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=a6vQkZwo_R73ioDdACFl6A&expires=1720321728&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=OuIojB_z1jvC_Wxra_VHQQ&expires=1720212269&user=c15be118d93a464dabf77260596012cf
@@ -70,10 +70,10 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=TU6tHGgWX0SX1WhK1cj9XQ&expires=1720150230&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
-https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=0TwkoqRbxGcy-aunQ0DaoA&expires=1720321615&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
-https://evbr.short.gy/BDStreamHub/btv_world.m3u
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=RmeOFLz7F70GTPvLU2CXvg&expires=1720321790&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=RnPjEjngb8qAnUXzxtqj4Q&expires=1720150291&user=c15be118d93a464dabf77260596012cf
