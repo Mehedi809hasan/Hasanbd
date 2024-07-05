@@ -154,6 +154,10 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png",Channel S UK
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8?nimblesessionid=94869
 
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl51CN0odcPjCA1PcX8M3ze0WhK4R44ID3Ew&s",Magic bangla tv
+http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1428315036.m3u8
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
