@@ -227,7 +227,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/31.ts
 http://ctgbox.com:8081/roarzone/bk/66/mono.m3u8?token=4a868e3c80eac9f8b300c12503d7e1f660e55e01-fc0913bd382e55584fce5af8338da58e-1719928606-1719917806&remote=103.185.24.1
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhQUS4Lbjknn20KFRCr4vCLsyEsHBopVok8JEI4sIvA&s",colors bangla cinema
-http://lifetvbd.xyz:8080/live/3363696/3363696/144.ts
+https://madplay.live/hls/jiotv/stream.php?id=1657&e=.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX8YAIUv2wASFgHQLA1gqWkaQZtNaH9LWY5YDnJa7pg&s",Enter 10 Bangla
 http://lifetvbd.xyz:8080/live/3363696/3363696/3873.ts
@@ -239,7 +239,7 @@ https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1cc
 http://lifetvbd.xyz:8080/live/3363696/3363696/2138.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYt_tdZ3HYZO0zbHKxDJxrphZ1Le5KsTHWBNjh_ed2sF09UaBJBTBKjNKW&s=10",zee Bangla
-https://otttv.co.in/dishtv/playlist.m3u8?chunks=79251d477e5327899e259f5135cc31fb6d0e404be386bb85243d3ceb4988cfde972a9a887cbda470c6b90a7088be8c14676cbf4e50b8159367a76c192527665f59089c12d9d0422cacab449becd2d59c1d2d247865d13d16bb7495425729ead2a10dd75edd573a7a38a28b4dc690e5548b591ec38cd59e945d12cf32f7b6fa15&vtoken=
+https://evbr.short.gy/BDStreamHub/zee_bangla.m3u
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pNB7SPMAum89xMi11CihHrAnK12aodShachkm2Ow-YCAuCKr1IYyRdk&s=10", zee Bangla cinema
 http://ctgbox.com:8081/roarzone/bk/29/mono.m3u8?token=af23efd528dff428e52c9b5d3a620ed63a989997-f8f70c50f7c7d1f8089019d8e12a24d4-1719925603-1719914803&remote=103.185.24.1
