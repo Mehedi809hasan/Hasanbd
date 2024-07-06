@@ -596,8 +596,8 @@ http://xtv.ooo:8080/live/global/global/311774.ts
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPO2rYkYAm5oKUcbbEzuya5IvGDOuHakmwp0iQbEimQ&s",24/7 Masha and the Bear
 http://xtv.ooo:8080/live/global/global/301506.ts
 
-#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizNyesByo3SAX_k7rHwCKRJHdxyNDOe7oMhiLfuDEh-VgnOC_ovye5NU&s",Nick
-http://ctgbox.com:8081/roarzone/bk/55/mono.m3u8?token=56c4133e0a28ac97c570e0de2bec5c94bb0e0591-3f18634a99964e503e13004338478e66-1719943374-1719932574&remote=103.185.24.1
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSETu203mDgfDAagLODemjB5aFRWP5TaEOtCGoHXXisuw6EN6ylCpkAOk&s",Nick Bangla
+https://bdixtv.nayeem-parvez.workers.dev/bpk-tv/Nick_Ben_MOB/Fallback/index.m3u8?__hdnea__=st=1720270491~exp=1720292091~acl=--the-nayeem-parvez--~ip=58.145.189.253~hmac=c3239e07315783837ab94b9fdd9cdcd7c33880ebc6a2286d2626868a46696719
 
 
 
