@@ -144,13 +144,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=1516619
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmuyF72SaPzg7AReWJbFRMZKWkXOWywCusQ&s",Bangla Tv Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8?sessId=1516654
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAIaotMhEqM8tP4kd1sFNx4jt0WqqlP-Na71qNgOP-Q&s",Channel S
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png",Channel S UK
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8?nimblesessionid=94869
-
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl51CN0odcPjCA1PcX8M3ze0WhK4R44ID3Ew&s",Magic bangla tv
 http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1428315036.m3u8
 
@@ -162,6 +155,12 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAIaotMhEqM8tP4kd1sFNx4jt0WqqlP-Na71qNgOP-Q&s",Channel S
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png",Channel S UK
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8?nimblesessionid=94869
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=OI8BSJmfgutRJswMOCheCw&expires=1720323102&user=c15be118d93a464dabf77260596012cf
