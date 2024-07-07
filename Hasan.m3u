@@ -312,6 +312,9 @@ http://ctgbox.com:8081/roarzone/bk/22/mono.m3u8?token=6895d4d647d78f3204d6005c9e
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-fc1hTMYGNjcjISSQ8rHi9a_syHuSvJEdmLSet-lEkPTh5t4JaNaxg&s",super sports cricket
 http://xtv.ooo:8080/live/15155419/16175512/238475.ts
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjaxi9NDQVp8GT0EHdKrafpQnVmQwxrk4Rg&usqp=CAU",super sports premire league
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/105355.ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5170.ts
 
