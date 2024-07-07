@@ -582,6 +582,9 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLSsnu9_CeaXtw-eNNt8o0WVYsqQO4gSn4zTxmeD5Rg&s",Tom &Jerry
 http://xtv.ooo:8080/live/15155419/16175512/329247.ts
 
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLSsnu9_CeaXtw-eNNt8o0WVYsqQO4gSn4zTxmeD5Rg&s",Tom &Jerry
+http://hdhd.tk:80/live/Giovanni/Giovanni/33683.ts
+
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7tyNmefo5YEdWXoCmRacSZhKTjIPnG8Z2w&s",24/7 looney tunes
 http://hdhd.tk:80/live/Giovanni/Giovanni/33722.ts
 
