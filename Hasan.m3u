@@ -606,6 +606,9 @@ http://xtv.ooo:8080/live/global/global/301506.ts
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSETu203mDgfDAagLODemjB5aFRWP5TaEOtCGoHXXisuw6EN6ylCpkAOk&s",Nick Bangla
 https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
 
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2qfRKPUy_do7g6yROP59HZeqI-CYzIHKkA&s",24/7 Kung fu panda
+http://hdhd.tk:80/live/Giovanni/Giovanni/33706.ts
+
 
 
 
