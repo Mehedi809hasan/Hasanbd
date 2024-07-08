@@ -650,7 +650,8 @@ http://hdhd.tk:80/live/Giovanni/Giovanni/33759.ts
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9npprLhjLF3g_4_V9vNem094yGVnqCq_qA&usqp=CAU",Mr.Bean(Bangla)
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSjZizc0XpMRayKT9xGf3Zul/ts
 
-
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyaQpzs1x1cW3H2xtz6B39D54qwBaz9EgfJ69mteFr4w&s",WB kids
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgezODRmxkNAxQlVKCXkrqT/ts
 
 
 
