@@ -351,7 +351,8 @@ http://xtv.ooo:8080/live/15155419/16175512/347333.ts
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s",A Sports
 http://xtv.ooo:8080/live/15155419/16175512/221417.ts
 
-
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLdIn-cLiR_miVa5bc-KKf4T8xEbLwLIo105lrNxLw37JdnV_wZcGkV6zR&s=10",Sports 18
+http://103.120.172.74:5500
 
 
 
