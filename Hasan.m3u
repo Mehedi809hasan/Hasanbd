@@ -43,8 +43,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoyKEqardEL4usSUAYWD74COlh1MzZ9d5Tg&s",Bollywood Movie
 http://xtv.ooo:8080/live/15155419/16175512/341039.ts
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9npprLhjLF3g_4_V9vNem094yGVnqCq_qA&usqp=CAU",Mr.Bean
-http://hdhd.tk:80/live/Giovanni/Giovanni/33759.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHBEaxivSCD_JXkH2sPlpai52k5rXxkUvJftHlEmryiHdBqvPi2qWjWt6&s=10",Bangla Movie 2
 http://lifetvbd.xyz:8080/live/3363696/3363696/364.ts
@@ -645,6 +643,15 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSj
 
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0nRr-x2hsGzUPgSU1jG51FtmJVaFle6mjtaAr_cbsIPwKIjI4wApn-E&s",24/7 Mina Cartoon Bangla
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSjdXBCAHtikq5RT_C7aAzIU/ts
+
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9npprLhjLF3g_4_V9vNem094yGVnqCq_qA&usqp=CAU",Mr.Bean
+http://hdhd.tk:80/live/Giovanni/Giovanni/33759.ts
+
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9npprLhjLF3g_4_V9vNem094yGVnqCq_qA&usqp=CAU",Mr.Bean(Bangla)
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSjZizc0XpMRayKT9xGf3Zul/ts
+
+
+
 
 
 
