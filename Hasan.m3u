@@ -212,6 +212,9 @@ http://xtv.ooo:8080/15155419/16175512/206285
 
 
 
+
+
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery(multi audio)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 
@@ -266,9 +269,11 @@ https://evbr.short.gy/BDStreamHub/zee_bangla.m3u
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pNB7SPMAum89xMi11CihHrAnK12aodShachkm2Ow-YCAuCKr1IYyRdk&s=10", zee Bangla cinema
 http://ctgbox.com:8081/roarzone/bk/29/mono.m3u8?token=af23efd528dff428e52c9b5d3a620ed63a989997-f8f70c50f7c7d1f8089019d8e12a24d4-1719925603-1719914803&remote=103.185.24.1
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10", Amar Bangla
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10",Aamar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgU1S8L89sMvS9WtcqOipfMfxslQvAGBgS_M3186LNoXPuA65U10a0ox2&s=10",Aamar digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 
 
