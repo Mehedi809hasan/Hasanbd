@@ -596,16 +596,6 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s",National Geographic(multi audio)
-http://xtv.ooo:8080/15155419/16175512/206285
-
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery(multi audio)
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
 
 
@@ -703,14 +693,6 @@ http://xtv.ooo:8080/malik625538/digitalstore1year/251577
 
 
 
-
-
-#EXTINF:-1 group-title="24/7 Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
-http://xtv.ooo:8080/live/15155419/16175512/268065.ts
-
-
-#EXTINF:-1 group-title="24/7 Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
-http://xtv.ooo:8080/live/15155419/16175512/270488.ts
 
 
 
