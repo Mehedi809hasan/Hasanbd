@@ -55,8 +55,6 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoyKEqardEL4usSUAYWD74COlh1MzZ9d5Tg&s",Bollywood Movie
-http://xtv.ooo:8080/live/15155419/16175512/341039.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAeszlFWlfcadc7jXVfQQnjZnGLWpMhcqPg&s",24/7 Bangla natok
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShpJaDMMhi9dZWcLpJc0ac-/ts
@@ -680,16 +678,6 @@ http://51.159.210.96/live/214535413/121315126/307079.m3u8?token=GhMNBEZcR1gRBwYP
 
 
 
-#EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpordo5pLP9j5wYxZ7vO7sQww5HjWGAiDA7HArsOKkaA&s",South hindy Dubbed 1
-http://xtv.ooo:8080/RiyazMPT/433833/253596
-
-
-#EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s",South hindy Dubbed 2
-http://xtv.ooo:8080/RiyazMPT/433833/263393
-
-
-#EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqR6gSpqyvqA6YpKgBIf9XvAIVpYsPQpgyaluzUQ5xg&s",shemaroo movie
-http://xtv.ooo:8080/malik625538/digitalstore1year/251577
 
 
 
