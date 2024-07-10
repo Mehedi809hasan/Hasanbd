@@ -195,7 +195,7 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=KQ7fkC535cR-O7oQPrmCpg&expires=1720585972&user=c15be118d93a464dabf77260596012cf
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
