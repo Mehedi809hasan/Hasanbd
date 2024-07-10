@@ -261,7 +261,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=s3o5u428
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
-http://lifetvbd.xyz:8080/live/3363696/3363696/3628.ts
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCr5n_hrV1TTWY7PFsmcgJ4/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -273,10 +273,10 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/31.ts
 http://hdhd.tk:80/live/Giovanni/Giovanni/7204.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhQUS4Lbjknn20KFRCr4vCLsyEsHBopVok8JEI4sIvA&s",colors bangla cinema
-https://madplay.live/hls/jiotv/stream.php?id=1657&e=.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX8YAIUv2wASFgHQLA1gqWkaQZtNaH9LWY5YDnJa7pg&s",Enter 10 Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/3873.ts
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLyT33nldfLjP3PrsAiBi_Q/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE40Cm6Rqua2OYmXi_kB9bQTxAC1uDPJLqQX9Ndk6BUalMH-iTSfafQY&s",star jalsha
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ7BiweE6UkYO1qnLnIvA_6/ts
@@ -318,10 +318,10 @@ http://xtv.ooo:8080/live/15155419/16175512/167569.ts
 http://xtv.ooo:8080/live/15155419/16175512/167587.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXXfyOFq8s2exK_nDrTOeqpAWQ6KdmHFYWfvT7HnlfqYae92v5Kq-Lx4&s",star sports 1
-http://xtv.ooo:8080/live/15155419/16175512/167575.ts
+http://103.120.172.74:4600
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrugGcEf9GqxwA_YuEb3dUaI94Ny2aaohkpQWcPF2RBli2bcdxlPgcmV0&s",star sports 2
-http://xtv.ooo:8080/live/15155419/16175512/167576.ts
+http://103.120.172.74:4200
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFY1NZbGVDe5rhQED9f9aYVRDC3rzf1QFt8MDDrNZu9g&s",star sports select 1
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/238.ts
