@@ -182,6 +182,9 @@ http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1428315036.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakyouXZzQQlBxTHfQoLfftmZAQdxMml3U-29MBo289EXFMjToLKisEXk&s=10",Rupasy Bangla tv
+https://cdn.ncare.live/live-orgin/ruposhibangla.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://ktvbangla.net/ktv-croped.png",k tv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
