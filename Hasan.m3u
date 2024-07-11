@@ -25,9 +25,8 @@ https://evbr.short.gy/BDStreamHub/Cooa_America_2024_m3u
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmQeVUlSRVoG1yhsvjmGVrRkryo4Yjdd488K3n3PH8w&s",Euro cup
 http://lifetvbd.xyz:8080/live/3363696/3363696/9371.ts
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyVwqOgUolQj_bnccgirZYz16KQE1bTHyJg&s",Lanka premier league(fancode)
-https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/glbWPoGS0WRFlF5XpoOP1suZZR8AClNdet1fh4sbvs-GxJYG1qUvlqE-XJ8fDu3r5iTBAqgY-nYjcYpCjiZEvA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_playlist.m3u8?type=live
-
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyVwqOgUolQj_bnccgirZYz16KQE1bTHyJg&s",Lanka premier league
+http://lifetvbd.xyz:8080/live/3363696/3363696/5455.ts
 
 
 
