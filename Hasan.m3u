@@ -236,6 +236,8 @@ https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshy Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScu7EbHErO-tKzeIVGVqsJ12LrGcytubyZ2A&usqp=CAU",Deshe Bideshe
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225744&extension=ts&play_token=gJY25KCFtT
 
 
 
