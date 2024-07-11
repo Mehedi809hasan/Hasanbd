@@ -62,6 +62,15 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAeszlFWlfcadc7jXVfQQnjZnGLWpMhcqPg&s",24/7 Bangla natok
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShpJaDMMhi9dZWcLpJc0ac-/ts
 
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpordo5pLP9j5wYxZ7vO7sQww5HjWGAiDA7HArsOKkaA&s",South hindy Dubbed 1
+http://opplex.tv:8080/live/15155419/16175512/253596.ts
+
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s",South hindy Dubbed 2
+http://opplex.tv:8080/live/15155419/16175512/253598.ts
+
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqR6gSpqyvqA6YpKgBIf9XvAIVpYsPQpgyaluzUQ5xg&s",shemaroo movie
+http://xtv.ooo:8080/malik625538/digitalstore1year/251577
+
 
 
 
@@ -527,23 +536,6 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSj
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf2MvXR9QSgy-j_veyW0wJC2tibCblMk-di5a9LQh-A&s",south Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpordo5pLP9j5wYxZ7vO7sQww5HjWGAiDA7HArsOKkaA&s",South hindy Dubbed 1
-http://opplex.tv:8080/live/15155419/16175512/253596.ts
-
-#EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s",South hindy Dubbed 2
-http://opplex.tv:8080/live/15155419/16175512/253598.ts
-
-#EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqR6gSpqyvqA6YpKgBIf9XvAIVpYsPQpgyaluzUQ5xg&s",shemaroo movie
-http://xtv.ooo:8080/malik625538/digitalstore1year/251577
 
 
 
