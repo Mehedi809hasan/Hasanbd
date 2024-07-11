@@ -347,7 +347,7 @@ http://103.120.172.74:4200
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/238.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq-RxDRb_jjxjLpnOwOuBw0evJwl5PgZX44obG-N2Zu_kx2ovNBU4s3Y&s",star sports select 2
-http://xtv.ooo:8080/live/adnankb2006/86057314/167576.ts
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=282676&extension=ts&play_token=ycYnPXdWsX
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryWPwdKpQdIxNkmLmwHUWApAgfvJHR9IeBHo2z1NDAPhQNbjwbQqPcf0&s",Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
@@ -365,13 +365,13 @@ http://xtv.ooo:8080/live/15155419/16175512/371470.ts
 http://xtv.ooo:8080/live/15155419/16175512/371471.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgU9kzIIHNuuCEvmezOgCM2-XTpk1pcognHOIDy3eU0oBxroi1VTuSlIQ&s",sony ten 1
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIY3bElohY4WcVHOCpspWCs/ts
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=282670&extension=ts&play_token=6eI4awkBs1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1WVXLGYZVBR0nZffkxXBExG8ffv0JW9K3lO0HCfeRuQ0cF_1YTexIaQ&s",sony ten 2
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJIAuKRK6k6EfDlJ_oBS-xu/ts
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=282671&extension=ts&play_token=S37sEjbwbT
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrxFI5dtHZVVlYEbdCBzez69cvxt29Nhci3qSjPWbwQ&s",sony ten 3
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJTNRGdLx7UfMOtOzSpyFVx/ts
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=282672&extension=ts&play_token=ZswJ1fzpB8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY61OFA0W0tVIiu0yK6dmeI5Wxhhak6k-NOW-y0uuXcE8yVIkSXRu7zNw&s",sony ten 4
 http://xtv.ooo:8080/live/15155419/16175512/167595.ts
