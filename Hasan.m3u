@@ -20,17 +20,6 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/9371.ts
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyVwqOgUolQj_bnccgirZYz16KQE1bTHyJg&s",Lanka premier league(fancode)
 https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/glbWPoGS0WRFlF5XpoOP1suZZR8AClNdet1fh4sbvs-GxJYG1qUvlqE-XJ8fDu3r5iTBAqgY-nYjcYpCjiZEvA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_playlist.m3u8?type=live
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOjRXZkYInmgyIbQ35jNGcrAzBJ6Xf9mEyQ&s",Fifa Plus
-https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",wwe
-http://newlife3.wanicelife.com:8880/live/12mmk230028/48487622/3083.ts
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",wwe 2
-http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqxmqUgi5HBnA8zpLoiPjcDraKWHcIRu09IHveB1Gecw&s",UFC
-http://hdhd.tk:80/live/Giovanni/Giovanni/34025.ts
 
 
 
@@ -231,26 +220,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s",Nat Geo
-http://xtv.ooo:8080/15155419/16175512/206285
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/21.ts
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
-http://lifetvbd.xyz:8080/live/3363696/3363696/18.ts
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiIfa6pg6ReO-oFad71_es1NLS_I_iLDHDuA&usqp=CAU",The hunt
-http://hdhd.tk:80/live/Giovanni/Giovanni/28707.ts
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4wOQY1fGjS7aJs1iyHOMvJr-SE3VEcO3CoXsW-pnkHCidXi1jEJZt24&s=10",The blue planet
-http://hdhd.tk:80/live/Giovanni/Giovanni/34015.ts
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z1GxS3TGhBTXljR0lFsVWazp1uLlVvmZYNW_TxvFFquQbOpivcqGzBM&s=10",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmIKbIF_vc0xIgGeITLcvitYijUqFdsDM8A&usqp=CAU",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
 
@@ -305,7 +274,17 @@ https://livess.ncare.live/http://banglajagotv.livebox.co.in:80/banglajagohls/24x
 
 
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOjRXZkYInmgyIbQ35jNGcrAzBJ6Xf9mEyQ&s",Fifa Plus
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",wwe
+http://newlife3.wanicelife.com:8880/live/12mmk230028/48487622/3083.ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",wwe 2
+http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqxmqUgi5HBnA8zpLoiPjcDraKWHcIRu09IHveB1Gecw&s",UFC
+http://hdhd.tk:80/live/Giovanni/Giovanni/34025.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
 http://hdhd.tk:80/live/Giovanni/Giovanni/9.ts
@@ -471,6 +450,26 @@ http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_512k.m3u8
 
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s",Nat Geo
+http://xtv.ooo:8080/15155419/16175512/206285
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery Bangla
+http://lifetvbd.xyz:8080/live/3363696/3363696/21.ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
+http://lifetvbd.xyz:8080/live/3363696/3363696/18.ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiIfa6pg6ReO-oFad71_es1NLS_I_iLDHDuA&usqp=CAU",The hunt
+http://hdhd.tk:80/live/Giovanni/Giovanni/28707.ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4wOQY1fGjS7aJs1iyHOMvJr-SE3VEcO3CoXsW-pnkHCidXi1jEJZt24&s=10",The blue planet
+http://hdhd.tk:80/live/Giovanni/Giovanni/34015.ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z1GxS3TGhBTXljR0lFsVWazp1uLlVvmZYNW_TxvFFquQbOpivcqGzBM&s=10",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmIKbIF_vc0xIgGeITLcvitYijUqFdsDM8A&usqp=CAU",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
 
@@ -520,27 +519,11 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s",National Geographic(multi audio)
-http://xtv.ooo:8080/15155419/16175512/206285
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpordo5pLP9j5wYxZ7vO7sQww5HjWGAiDA7HArsOKkaA&s",South hindy Dubbed 1
 http://opplex.tv:8080/live/15155419/16175512/253596.ts
 
-
 #EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s",South hindy Dubbed 2
 http://opplex.tv:8080/live/15155419/16175512/253598.ts
-
 
 #EXTINF:-1 group-title="24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqR6gSpqyvqA6YpKgBIf9XvAIVpYsPQpgyaluzUQ5xg&s",shemaroo movie
 http://xtv.ooo:8080/malik625538/digitalstore1year/251577
@@ -548,86 +531,44 @@ http://xtv.ooo:8080/malik625538/digitalstore1year/251577
 
 
 
+
+
 #EXTINF:-1 group-title="24/7 Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
 http://xtv.ooo:8080/malik625538/digitalstore1year/268058
-
 
 #EXTINF:-1 group-title="24/7 Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
 http://xtv.ooo:8080/malik625538/digitalstore1year/270488
 
 
 
+
+
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony set
 http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SqJKPCiQJD4JWoDwz7F8DETCYgS1WW_oE2nB8aW4iA&s",sony Max 2
 http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjPPFmz4B3iN2GJ8V95sLoxdLd_K40XHPgw&s",Sony Pix
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHC48SZoY6K6qpWGzfHz5O6uKJNJ1jUhg4QQ&s",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_512k.m3u8
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo6IrtNoQvKMvS3x5WzS9B30fAXqld_R3jhmzv8ZkOQ&s",Sony Wah
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=280764&extension=ts&play_token=5NOq2lROHN
 
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1r2ijy07km5OkL7Z7w6KitmgmYuREBbaPUf9Yp160w&s",Sony Pal
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156101&extension=ts&play_token=iJ6F4DNZLL
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RHzWjCYkTpbAPKYN9KySmm8AKWy9Ht8bkPwXBqREBA&s",Goldmines
-http://xtv.ooo:8080/malik625538/digitalstore1year/112972
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-uS2-dhDYt3dUpQPRPtp8PuJ8qGSGVyuN3GpC6HKMA&s",Goldmines Bollywood
-http://xtv.ooo:8080/malik625538/digitalstore1year/112973
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s",Bflix Movies
-http://xtv.ooo:8080/live/adnankb2006/86057314/104190.ts
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
-http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5hDA3PGbVxNsB208GxMHPud5_SMp-G6uJTeUkCQqjJBEgoE1m_HXalA&usqp=CAE&s",Star Gold select
-http://xtv.ooo:8080/15155419/16175512/221257
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf2MvXR9QSgy-j_veyW0wJC2tibCblMk-di5a9LQh-A&s",south Station
-https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3wgu3ScO8d0Vmb75AUefU8ex2WzsrsgH_L2G2kOuZ3K_9dQ3AgDC8t8&s",Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-
-
-
-
-
 
 
 
