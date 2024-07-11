@@ -449,6 +449,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDLYyqdLlg7DmrtHyRdc45rFMnKTSaBK1ZE2B0yriTKq286q5Ux64rMY&s",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKY4PsJ3FcMa4z-Jj3bVe6VOhDj6groy9kWdlFA5wZIA&s",Bollywood premium Song
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=643849&extension=ts&play_token=w97SfbI6hG
+
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ892WM0w7PzwQTrkszu4XhWtJK4tf6kJjlllM_LTzj3-rx82YOaDL_SoA&s",zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
