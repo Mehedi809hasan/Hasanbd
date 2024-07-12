@@ -79,8 +79,21 @@ http://opplex.tv:8080/live/15155419/16175512/253596.ts
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s",South hindy Dubbed 2
 http://opplex.tv:8080/live/15155419/16175512/253598.ts
 
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s",South hindy Dubbed 3
+http://xtv.ooo:8080/live/15155419/16175512/263386.ts
+
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqR6gSpqyvqA6YpKgBIf9XvAIVpYsPQpgyaluzUQ5xg&s",shemaroo movie
 http://xtv.ooo:8080/malik625538/digitalstore1year/251577
+
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qokcs5Qt253SegEQFWq8bcR_Tvq0f_4lsFgIgsfuxQ&s",24/7 Bollywood Movie
+http://xtv.ooo:8080/live/15155419/16175512/250347.ts
+
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qokcs5Qt253SegEQFWq8bcR_Tvq0f_4lsFgIgsfuxQ&s",24/7 Bollywood Movie 2
+http://xtv.ooo:8080/live/15155419/16175512/250349.ts
+
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qokcs5Qt253SegEQFWq8bcR_Tvq0f_4lsFgIgsfuxQ&s",24/7 Bollywood Movie 3
+http://xtv.ooo:8080/live/15155419/16175512/250351.ts
+
 
 
 
