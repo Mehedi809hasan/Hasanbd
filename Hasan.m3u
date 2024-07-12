@@ -30,6 +30,11 @@ http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/1089077.ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyVwqOgUolQj_bnccgirZYz16KQE1bTHyJg&s",Lanka premier league
 http://lifetvbd.xyz:8080/live/3363696/3363696/5455.ts
 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports
+http://113.212.111.246:8080/hls/col12.m3u8
+
+
+
 
 
 
@@ -105,9 +110,6 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1l5L2pqMFJjXs10rQPG86XmRf7U8Bkva5a-nwWPwX1g&s",Boisakhy Tv
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM9gnEUmsXc7KNs1x1dhxA8/ts
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu485EEixjld-Hdl9ylWq9Ouzp9oNEQkuPQ&usqp=CAU",G Tv
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFSLu1h31Nc1e_8OD248c0Y/ts
