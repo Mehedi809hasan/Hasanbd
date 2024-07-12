@@ -211,6 +211,9 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTu7EfbUv_wKh1x0GSTVMZUYi3tUCZFiZGeR2QmzZwMuWgsfaw1LcKrTAT&s=10",I Tv bangla
+https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAIaotMhEqM8tP4kd1sFNx4jt0WqqlP-Na71qNgOP-Q&s",Channel S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
