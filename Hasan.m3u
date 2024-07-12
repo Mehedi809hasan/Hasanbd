@@ -306,6 +306,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxNvqDNc2F_NGL25Hfvvim2OlRapUVFlMWg&s",Bangla jago
 http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8?|User-Agent=Mozilla/5.0%20(Linux;%20Android%207.0;)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/90.0.4430.210%20Mobile%20Safari/537.36
 
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8YBLEVOEipQrAErbFdRBxJDfn9TFxMjR3A&s",Rupasy Bangla
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225769&extension=ts&play_token=a7LlfwOBBu
 
 
 
