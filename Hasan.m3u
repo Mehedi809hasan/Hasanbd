@@ -416,7 +416,7 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=28267
 http://xtv.ooo:8080/live/15155419/16175512/167595.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBd7SNCzbx-mvHPFpbyLtpR3Y8EV7RpyWX-Mg_a78Hg&s",sony sports 5
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGbg3QzIL1Jekvj38srfAaA/ts
+http://103.120.172.74:5300
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-fc1hTMYGNjcjISSQ8rHi9a_syHuSvJEdmLSet-lEkPTh5t4JaNaxg&s",super sports cricket
 http://xtv.ooo:8080/live/15155419/16175512/238475.ts
@@ -617,7 +617,7 @@ http://xtv.ooo:8080/malik625538/digitalstore1year/270488
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony set
-http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://103.120.172.74:5000
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
