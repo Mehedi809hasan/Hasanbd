@@ -94,6 +94,15 @@ http://xtv.ooo:8080/live/15155419/16175512/250349.ts
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qokcs5Qt253SegEQFWq8bcR_Tvq0f_4lsFgIgsfuxQ&s",24/7 Bollywood Movie 3
 http://xtv.ooo:8080/live/15155419/16175512/250351.ts
 
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGntL3Zl6kr6wZxwGEiHdV5iDU3l343_F3CRvrdwEFOzuOL23SUxLI5E&s",Hotstar
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636448&extension=ts&play_token=LBqhaM7Uzk
+
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jqoo7wXepLQVjIUgV4QyvNHIw-Nb2Wsxng&usqp=CAU",zee 5
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636384&extension=ts&play_token=d5vwqKgfEy
+
+
+
+
 
 
 
