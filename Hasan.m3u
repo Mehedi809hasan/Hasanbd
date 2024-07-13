@@ -383,7 +383,7 @@ http://103.120.172.74:4600
 http://103.120.172.74:4200
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFY1NZbGVDe5rhQED9f9aYVRDC3rzf1QFt8MDDrNZu9g&s",star sports select 1
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/238.ts
+http://103.120.172.74:1030
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq-RxDRb_jjxjLpnOwOuBw0evJwl5PgZX44obG-N2Zu_kx2ovNBU4s3Y&s",star sports select 2
 http://103.120.172.74:4700
