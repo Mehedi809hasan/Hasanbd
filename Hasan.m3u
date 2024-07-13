@@ -279,7 +279,8 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=22574
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScu7EbHErO-tKzeIVGVqsJ12LrGcytubyZ2A&usqp=CAU",Deshe Bideshe
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225744&extension=ts&play_token=gJY25KCFtT
 
-
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9hYYfhxrs_1cj3zdEoU9czfqmAPhojPvkw&s",NRV tv
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8?nimblesessionid=50731934&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDI0IDI6Mzg6MjcgQU0maGFzaF92YWx1ZT1MdjZMbUcwL2ZCeitRd3RoS3NKVjdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 
