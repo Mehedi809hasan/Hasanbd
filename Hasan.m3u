@@ -386,7 +386,7 @@ http://103.120.172.74:4200
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/238.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq-RxDRb_jjxjLpnOwOuBw0evJwl5PgZX44obG-N2Zu_kx2ovNBU4s3Y&s",star sports select 2
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=282676&extension=ts&play_token=ycYnPXdWsX
+http://103.120.172.74:4700
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryWPwdKpQdIxNkmLmwHUWApAgfvJHR9IeBHo2z1NDAPhQNbjwbQqPcf0&s",Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
@@ -635,10 +635,10 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_512k.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
-http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://103.120.172.74:4300
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=280764&extension=ts&play_token=5NOq2lROHN
+http://103.120.172.74:4400
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1r2ijy07km5OkL7Z7w6KitmgmYuREBbaPUf9Yp160w&s",Sony Pal
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156101&extension=ts&play_token=iJ6F4DNZLL
