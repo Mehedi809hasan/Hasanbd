@@ -509,7 +509,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://epiconvh.s.llnwi.net/showbox/master_480.m3u8
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVVSaflhurcP6M41Zrd-qAZZIj0X0Z2-XkeT0rci4-w&s",Old is gold
-http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
+http://filex.tv:8080/live/munna/9090/288072.ts
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzcxTbpoBV8otkmwv9T7e__WTfmskFcqlNngDAzwx0z0N5aJusorZAvk&s=10",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_512k.m3u8
