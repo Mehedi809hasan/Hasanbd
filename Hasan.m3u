@@ -503,12 +503,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDLYyqdLlg7DmrtHyRdc45rFMnKTSaBK1ZE2B0yriTKq286q5Ux64rMY&s",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
-#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKY4PsJ3FcMa4z-Jj3bVe6VOhDj6groy9kWdlFA5wZIA&s",Bollywood premium Song
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=643849&extension=ts&play_token=w97SfbI6hG
-
-#EXTINF:-1 group-title="Indian Music" tvg-logo="https://store-images.s-microsoft.com/image/apps.47797.13510798887689489.4d9332ed-cd60-4093-8a9d-6a30151d1713.d7019cb7-6e3d-4fa5-bae4-2c41d58b1724",Bollywood Mashup Song
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=643861&extension=ts&play_token=lyqX4BJR6u
-
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqk_CKLXXhxuOnZb1Fst0tKqhIDBU5CRFnj_TbXx7g4w&s",24/7 Music
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGucYO-gYHNaHl315ui5XZ0/ts
 
@@ -517,9 +511,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGG2Jy6RplsMKv7v2k01s2Ggkakh7zeTG2mFCPU_xTWQ&s",9x Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-
-#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcg95ojXU3gnf7pRjTBg9MaK9pmmCKyPz8f56jIhSWvRvkM4UBT7fTdeY&s",T Series
-http://homeip.biz/TSER247/index.m3u8?token=20666637dbc63ea9c58499949f79a470
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCvN9F0svaOX9OtTaB1JDpIXj-aS1PKPBW5tOtcqbai5DJm_Ppiemb6g&s",YRF Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
@@ -532,6 +523,9 @@ http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzcxTbpoBV8otkmwv9T7e__WTfmskFcqlNngDAzwx0z0N5aJusorZAvk&s=10",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_512k.m3u8
+
+
+
 
 
 
