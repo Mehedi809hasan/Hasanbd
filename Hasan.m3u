@@ -39,7 +39,7 @@ http://xtv.ooo:8080/live/874246786/743567899/219689.ts
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa9o9EgZJ5gbfnb1AGZnieIdwYkHQduqJ2IyRWm1njnY8xudJ99N-2B8&s=10", Major Cricket league
-http://lifetvbd.xyz:8080/live/3363696/3363696/5455.ts
+http://filex.tv:8080/live/munna/9090/62393.ts
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIcBybucJ5WdFBl26owvpHUS8WaFEXyPeZQ&s",Sony Liv
 https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
@@ -275,11 +275,6 @@ https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshy Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScu7EbHErO-tKzeIVGVqsJ12LrGcytubyZ2A&usqp=CAU",Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9hYYfhxrs_1cj3zdEoU9czfqmAPhojPvkw&s",NRV tv
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8?nimblesessionid=58547298&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDQ6MDY6NTEgUE0maGFzaF92YWx1ZT14dWlXbk1xOWRuRFlzbWZ5RkJ1WHhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 
