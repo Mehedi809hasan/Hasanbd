@@ -107,12 +107,6 @@ http://xtv.ooo:8080/live/15155419/16175512/250349.ts
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qokcs5Qt253SegEQFWq8bcR_Tvq0f_4lsFgIgsfuxQ&s",24/7 Bollywood Movie 3
 http://xtv.ooo:8080/live/15155419/16175512/250351.ts
 
-#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGntL3Zl6kr6wZxwGEiHdV5iDU3l343_F3CRvrdwEFOzuOL23SUxLI5E&s",Hotstar
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636448&extension=ts&play_token=LBqhaM7Uzk
-
-#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jqoo7wXepLQVjIUgV4QyvNHIw-Nb2Wsxng&usqp=CAU",zee 5
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636384&extension=ts&play_token=d5vwqKgfEy
-
 
 
 
@@ -248,9 +242,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTu7EfbUv_wKh1x0GSTVMZUYi3tUCZFiZGeR2QmzZwMuWgsfaw1LcKrTAT&s=10",I Tv bangla
-https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAIaotMhEqM8tP4kd1sFNx4jt0WqqlP-Na71qNgOP-Q&s",Channel S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
@@ -287,7 +278,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScu7EbHErO-tKzeIVGVqsJ12LrGcytubyZ2A&usqp=CAU",Deshe Bideshe
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225744&extension=ts&play_token=gJY25KCFtT
 
-#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9hYYfhxrs_1cj3zdEoU9czfqmAPhojPvkw&s",NRV tv
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9hYYfhxrs_1cj3zdEoU9czfqmAPhojPvkw&s",NRV tv
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8?nimblesessionid=50731934&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDI0IDI6Mzg6MjcgQU0maGFzaF92YWx1ZT1MdjZMbUcwL2ZCeitRd3RoS3NKVjdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
