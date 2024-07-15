@@ -41,6 +41,11 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa9o9EgZJ5gbfnb1AGZnieIdwYkHQduqJ2IyRWm1njnY8xudJ99N-2B8&s=10", Major Cricket league
 http://lifetvbd.xyz:8080/live/3363696/3363696/5455.ts
 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIcBybucJ5WdFBl26owvpHUS8WaFEXyPeZQ&s",Sony Liv
+https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+
+
+
 
 
 
