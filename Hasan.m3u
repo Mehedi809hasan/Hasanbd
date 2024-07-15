@@ -35,8 +35,8 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/5455.ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 
-
-
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa9o9EgZJ5gbfnb1AGZnieIdwYkHQduqJ2IyRWm1njnY8xudJ99N-2B8&s=10", Major Cricket league
+http://lifetvbd.xyz:8080/live/3363696/3363696/5455.ts
 
 
 
