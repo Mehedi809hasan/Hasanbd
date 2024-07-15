@@ -312,7 +312,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHYfy6NBtkBfBF6jNxRTug8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHm1tZ39MdH7sAM5wDdN1iLTKn3TyfH61aA&s",Akash aath
-http://lifetvbd.xyz:8080/live/3363696/3363696/31.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=79&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOqw2-eB81PPem1OJiggMc61yiaWewJCoF08Mas3Ki0_k_3PJptMUsxU&s",Colors Bangla
 http://hdhd.tk:80/live/Giovanni/Giovanni/7204.ts
