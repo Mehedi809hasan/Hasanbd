@@ -529,6 +529,11 @@ http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzcxTbpoBV8otkmwv9T7e__WTfmskFcqlNngDAzwx0z0N5aJusorZAvk&s=10",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_512k.m3u8
 
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
+http://xtv.ooo:8080/malik625538/digitalstore1year/268058
+
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
+http://xtv.ooo:8080/malik625538/digitalstore1year/270488
 
 
 
@@ -597,15 +602,15 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRHLWvqpUo37BGa3Oy4zEdsHaemvBk9GhtKC9KaI1LbnUxxhWYPvCUyzv&s=10",Zee Cinema
 http://103.120.172.74:4100
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWPrBHBYNzt0lzsL-oEx3ZapujVvvlbr2Nw&usqp=CAU",Bollywood hd
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/f4add8b1-d536-4105-9cc6-0d4237935aa6/0.m3u8
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxHpkVYrxRYwMub2rbHtZ9J_evyPdE3Htp42jxCq5IFIvv7j6SAB4bcg&s=10",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index_6.m3u8
 
 
 
 
-#EXTINF:-1 group-title="24/7 Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
-http://xtv.ooo:8080/malik625538/digitalstore1year/268058
-
-#EXTINF:-1 group-title="24/7 Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
-http://xtv.ooo:8080/malik625538/digitalstore1year/270488
 
 
 
