@@ -587,6 +587,9 @@ http://xtv.ooo:8080/live/15155419/16175512/106133.ts
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold thrillas
 http://xtv.ooo:8080/live/15155419/16175512/221258.ts
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WJq0rdTC1Zt7ubTVatM-o8hf5bFCwMPjtg&usqp=CAU",Star gold Romance
+http://xtv.ooo:8080/live/874246786/743567899/66186.ts
+
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrhqb6J3yGM6UXgkKeLRr0LB6n5s3akHapA&s",Goldmines
 http://xtv.ooo:8080/live/874246786/743567899/112972.ts
 
