@@ -213,6 +213,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDwnjVduSu_VQH9SrNY-YgI
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnB2jd613xx1IAMPXi1TTNAu1bdkB-i02v9kxqqeN0A&s",Atn Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gABN1ENgUhd66dw0rFd-Aug/ts
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEwYrr5aZFWD2N3t_cWC883r1A07dCYahWDevFDZXABGM-X4yV3ut-G4_&s=10",Atn Bangla Uk
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225722&extension=ts&play_token=wXBPmXIB0c
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9JCLpWcLDnzsCtn0_3wIb7KhzrHg40CJOWN65CRVZ-9AY70gGh9wjfo&s",Atn News
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPzP84Bq7_OqDyCUNlwhXuk/ts
 
