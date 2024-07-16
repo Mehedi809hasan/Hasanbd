@@ -640,7 +640,7 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=15610
 
 
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLSsnu9_CeaXtw-eNNt8o0WVYsqQO4gSn4zTxmeD5Rg&s",Tom &Jerry
-http://xtv.ooo:8080/live/15155419/16175512/329247.ts
+http://filex.tv:8080/live/munna/9090/290458.ts
 
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLSsnu9_CeaXtw-eNNt8o0WVYsqQO4gSn4zTxmeD5Rg&s",Tom &Jerry 2
 http://hdhd.tk:80/live/Giovanni/Giovanni/33683.ts
