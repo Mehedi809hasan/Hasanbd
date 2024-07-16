@@ -538,7 +538,7 @@ http://xtv.ooo:8080/live/874246786/743567899/270489.ts
 http://xtv.ooo:8080/15155419/16175512/206285
 
 #EXTINF:-1 group-title="Documantary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/21.ts
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1112201&extension=ts&play_token=SJz1oRYBwB
 
 #EXTINF:-1 group-title="Documantary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
 http://lifetvbd.xyz:8080/live/3363696/3363696/18.ts
