@@ -220,7 +220,7 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225722&extens
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPzP84Bq7_OqDyCUNlwhXuk/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDMcfn6uRmjT1SLgfxdnXNZ6VycMsSuW9Fw&s",Atn Music
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225724&extension=ts&play_token=XZMJp8JSHE
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225724&extension=ts&play_token=pHJZJDmkj1
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs/ts
