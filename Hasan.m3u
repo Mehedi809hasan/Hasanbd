@@ -135,7 +135,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJ_X5WhrYEIvgVzxsW_OBsQ
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=WWDYtpPVHtxXjW762KkX0A&expires=1721450337&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s",Ananda tv
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225815&extension=ts&play_token=gxnm0HH1jx
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwm5KYiY6FKR1Git8mzDl0rbdASBm4M_QR8qoT8pLyFw&s",DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=hV80ndHH7j4djsx6dtEEbw&expires=1721450566&user=c15be118d93a464dabf77260596012cf
