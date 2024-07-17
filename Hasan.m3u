@@ -286,9 +286,6 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooxGVdAP1ZMQtoaRCUPB_pexd0HhGXr3xwg&s",IB Tv usa
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w1150149719.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtRB4MHtLZ7t7Mexv96zsmQf6efYhQr0S7yeeWlCilA&s",the channel tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/1801.ts
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 
