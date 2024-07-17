@@ -298,6 +298,9 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s",Nandan Tv
 https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtRB4MHtLZ7t7Mexv96zsmQf6efYhQr0S7yeeWlCilA&s",the channel tv
+http://lifetvbd.xyz:8080/live/3363696/3363696/1801.ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshy Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
