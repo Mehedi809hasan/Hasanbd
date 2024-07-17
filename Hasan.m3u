@@ -38,6 +38,9 @@ http://filex.tv:8080/live/munna/9090/62393.ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6EaNuP5NhO9Bnp5wa5qZ4IH45p32VmMtaQ&usqp=CAU",Tamil nadu premire leauge
+http://103.120.172.74:4600
+
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa9o9EgZJ5gbfnb1AGZnieIdwYkHQduqJ2IyRWm1njnY8xudJ99N-2B8&s=10", Major Cricket league
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=175004&extension=ts&play_token=CwyOBjGRWZ
 
