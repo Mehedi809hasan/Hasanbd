@@ -118,7 +118,8 @@ http://xtv.ooo:8080/live/15155419/16175512/250351.ts
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12043-j9o0gcog-v2/imageContent-12043-j9o0gcog-m5.png",Bangla Cinema(Tata play)
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=155775&extension=ts&play_token=mCy8BUQ9Az
 
-
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcoDnyvdv-c-dOzKQjhJ4C_pq3tFrF4bU0g&usqp=CAU",Hindy Classic Movie
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=636188&extension=ts&play_token=JYXvV3ihYW
 
 
 
