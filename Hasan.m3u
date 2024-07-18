@@ -571,6 +571,13 @@ http://xtv.ooo:8080/live/874246786/743567899/268065.ts
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSEE34PkLuK0ptnfGIyZAZ703zEzG7aJrxL9LB3AUbg&s",Bollywood Music
 http://xtv.ooo:8080/live/874246786/743567899/270489.ts
 
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt1UfaDgKKXSFUnCtv6Eq_o_cX4H46kpwkA&usqp=CAU",Hindy hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+
+
+
+
 
 
 
