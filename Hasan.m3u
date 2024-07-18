@@ -347,6 +347,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX8YAIUv2wASFgHQLA1gqWkaQZtNaH9LWY5YDnJa7pg&s",Enter 10 Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLyT33nldfLjP3PrsAiBi_Q/ts
 
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/U_Bangla_logo.png/revision/latest?cb=20211122005443",U Bangla
+http://typhoonott.com:8789/play/live.php?mac=00:1A:79:a8:fb:80&stream=429991&extension=ts
+
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE40Cm6Rqua2OYmXi_kB9bQTxAC1uDPJLqQX9Ndk6BUalMH-iTSfafQY&s",star jalsha
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gI51-g9Ledf2nUN-ki08WGA/ts
 
