@@ -88,6 +88,18 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 
 
+
+#EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqPUPVaXzwd9vJdu-rBjFMexBsYShEGdTbQ&s,Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs45fgufyNGxA6W3f1-Ukj7l0g7fSOpHQTthZN194-bYOCYZS2KtCijsU&s=10,Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAeszlFWlfcadc7jXVfQQnjZnGLWpMhcqPg&s",24/7 Bangla natok
 http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 
