@@ -288,7 +288,7 @@ https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=HtGtKQjh0GQzideX6L_Zfw&expires=1721451533&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
-https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225790&extension=ts&play_token=P6A9Aln6a5
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",cumilla tv
 http://103.149.142.133/0.m3u8
