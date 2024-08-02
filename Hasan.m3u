@@ -355,7 +355,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=79&uid=3960&deviceMac=00:1A:79:09:AC:
 http://hdhd.tk:80/live/Giovanni/Giovanni/7204.ts
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhQUS4Lbjknn20KFRCr4vCLsyEsHBopVok8JEI4sIvA&s",colors bangla cinema
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw/ts
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=155782&extension=ts&play_token=xwXqBJAPEz
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX8YAIUv2wASFgHQLA1gqWkaQZtNaH9LWY5YDnJa7pg&s",Enter 10 Bangla
 http://b1g.me:80/live/786786/786786/23740.ts
