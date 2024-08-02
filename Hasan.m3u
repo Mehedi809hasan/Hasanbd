@@ -147,7 +147,7 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=636188&extens
 http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
-http://b1g.me:80/live/786786/786786/23734.ts
+http://lifetvbd.xyz:8080/live/3363696/3363696/39.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s",Ananda tv
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=165525&extension=ts&play_token=PphuyEBDPT
@@ -162,10 +162,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1l5L2pqMFJjXs10rQPG86XmRf7U8Bkva5a-nwWPwX1g&s",Boisakhy Tv
-http://b1g.me:80/live/786786/786786/20748.ts
+http://lifetvbd.xyz:8080/live/3363696/3363696/170.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu485EEixjld-Hdl9ylWq9Ouzp9oNEQkuPQ&usqp=CAU",G Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=hdZ_Ozn4oqc_viDCDBG6uA&expires=1722375816&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/1686.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=165514&extension=ts&play_token=ruhnoMcEb2
@@ -198,7 +198,7 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225774&extens
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225735&extension=ts&play_token=HRBNoYOIDZ
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy Tv
-http://b1g.me:80/live/786786/786786/23735.ts
+http://lifetvbd.xyz:8080/live/3363696/3363696/498.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
@@ -285,7 +285,7 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=HtGtKQjh0GQzideX6L_Zfw&expires=1721451533&user=c15be118d93a464dabf77260596012cf
+http://lifetvbd.xyz:8080/live/3363696/3363696/228.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225790&extension=ts&play_token=P6A9Aln6a5
