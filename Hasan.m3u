@@ -45,8 +45,7 @@ http://103.120.172.74:4600
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=175004&extension=ts&play_token=CwyOBjGRWZ
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIcBybucJ5WdFBl26owvpHUS8WaFEXyPeZQ&s",Sony Liv
-https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
-
+https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 
 
 
@@ -421,7 +420,7 @@ https://cdn.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
-http://b1g.me:80/live/786786/786786/15142.ts
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19iZeDWCRTVE2uO2g6lJ7rfMJYpFLPfsKdA&usqp=CAU",Sangeet Bangla
 http://b1g.me:80/live/786786/786786/23724.ts
@@ -439,22 +438,22 @@ http://hdhd.tk:80/live/Giovanni/Giovanni/7204.ts
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=155782&extension=ts&play_token=xwXqBJAPEz
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX8YAIUv2wASFgHQLA1gqWkaQZtNaH9LWY5YDnJa7pg&s",Enter 10 Bangla
-http://b1g.me:80/live/786786/786786/23740.ts
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/U_Bangla_logo.png/revision/latest?cb=20211122005443",U Bangla
 http://typhoonott.com:8789/play/live.php?mac=00:1A:79:a8:fb:80&stream=429991&extension=ts
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE40Cm6Rqua2OYmXi_kB9bQTxAC1uDPJLqQX9Ndk6BUalMH-iTSfafQY&s",star jalsha
-http://b1g.me:80/live/786786/786786/161930.ts
+http://humsab.xyz/IN_JALSHAS/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8FobwM67tgXaSVwWG9CeqVwFLlqlITiQ1x658D5flyycwp2GbyJuhP8o&s",Sony Aath
 http://hdhd.tk:80/live/Giovanni/Giovanni/7122.ts
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYt_tdZ3HYZO0zbHKxDJxrphZ1Le5KsTHWBNjh_ed2sF09UaBJBTBKjNKW&s=10",zee Bangla
-http://b1g.me:80/live/786786/786786/789754.ts
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pNB7SPMAum89xMi11CihHrAnK12aodShachkm2Ow-YCAuCKr1IYyRdk&s=10", zee Bangla cinema
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=155782&extension=ts&play_token=xwXqBJAPEz
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoZB8b7lcx9gYRFXtUd1Yjs18LnxzKuE4t3S_tFLRDp8Rz_No9ScKpqH3&s=10",Aamar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
@@ -683,7 +682,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://xtv.ooo:8080/15155419/16175512/206285
 
 #EXTINF:-1 group-title="Documantary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery Bangla
-http://xtv.ooo:8080/live/773199/626227/245966.ts
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 group-title="Documantary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
 http://xtv.ooo:8080/live/773199/626227/206282.ts
