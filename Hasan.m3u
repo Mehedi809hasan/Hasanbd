@@ -745,6 +745,9 @@ http://xtv.ooo:8080/live/global/global/311774.ts
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSETu203mDgfDAagLODemjB5aFRWP5TaEOtCGoHXXisuw6EN6ylCpkAOk&s",Nick Bangla
 http://b1g.me:80/live/786786/786786/672354.ts
 
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUkQQrEJNoW8pasZGxehrSHP3Nx60MyPURLm9krlgKnDhfXYlQyv22fo&s=10",Wow kids Action
+http://xtv.ooo:8080/live/773199/626227/314753.ts
+
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSATZP3hEQMuH5wtOF95qEh2BgdLIspC8BQ&usqp=CAU",24/7 popeye
 http://hdhd.tk:80/live/Giovanni/Giovanni/33708.ts
 
