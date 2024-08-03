@@ -146,7 +146,6 @@ https://ythls.armelin.one/channel/UCKlhfq1ILoAFav7iw5iCnfA.m3u8
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsCJDg8ijPW8w3UQv4amWLKxXY1Xzw6fGAA&usqp=CAU",DBC News
 https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
-
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcwksaX6NU0AssTITOBFGXi9qbXVYhbpPsmkCMEV88JnNYLT9TR3TEI8&s=10",News 24
 https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 
@@ -224,13 +223,13 @@ https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
+http://46.250.234.136:8080/live/3363696/3363696/76.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/39.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s",Ananda tv
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=165525&extension=ts&play_token=PphuyEBDPT
+http://46.250.234.136:8080/live/3363696/3363696/44.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwm5KYiY6FKR1Git8mzDl0rbdASBm4M_QR8qoT8pLyFw&s",DBC News
 http://b1g.me:80/live/786786/786786/23751.ts
@@ -248,13 +247,13 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/170.ts
 https://evbr.short.gy/BDStreamHub.Gazitv.m3u
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=165514&extension=ts&play_token=ruhnoMcEb2
+http://46.250.234.136:8080/live/3363696/3363696/493.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",R tv
 http://b1g.me:80/live/786786/786786/20739.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg=s88-c-k-c0x00ffffff-no-rj",News24
-https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+http://46.250.234.136:8080/live/3363696/3363696/9427.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
 https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
@@ -269,13 +268,13 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225743&extens
 http://lifetvbd.xyz:8080/live/3363696/3363696/81.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
-http://b1g.me:80/live/786786/786786/23749.ts
+http://46.250.234.136:8080/live/3363696/3363696/318.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv
 http://b1g.me:80/live/786786/786786/4156.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
+http://46.250.234.136:8080/live/3363696/3363696/9426.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/498.ts
@@ -302,7 +301,7 @@ http://b1g.me:80/live/786786/786786/23731.ts
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
-http://176.119.29.52/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://46.250.234.136:8080/live/3363696/3363696/3703.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YC1BUCcKUL_MYCNZjmoJnD3ZYFXSA2qm_g&s",nexus tevision
 http://b1g.me:80/live/786786/786786/23741.ts
@@ -323,7 +322,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjQgMTA6MzY6MzEgQU0maGFzaF92YWx1ZT1EMlI2RUVERGhiMXBwZlRmRW0zREFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9JCLpWcLDnzsCtn0_3wIb7KhzrHg40CJOWN65CRVZ-9AY70gGh9wjfo&s",Atn News
-http://b1g.me:80/live/786786/786786/23745.ts
+http://46.250.234.136:8080/live/3363696/3363696/9428.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDMcfn6uRmjT1SLgfxdnXNZ6VycMsSuW9Fw&s",Atn Music
 http://b1g.me:80/live/786786/786786/23742.ts
