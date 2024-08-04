@@ -381,6 +381,9 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooxGVdAP1ZMQtoaRCUPB_pexd0HhGXr3xwg&s",IB Tv usa
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w1150149719.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png",Time Tv USA
+http://b1g.me:80/live/786786/786786/779061.ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 
