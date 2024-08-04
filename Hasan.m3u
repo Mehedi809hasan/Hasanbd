@@ -327,6 +327,9 @@ http://b1g.me:80/live/786786/786786/23745.ts
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDMcfn6uRmjT1SLgfxdnXNZ6VycMsSuW9Fw&s",Atn Music
 http://b1g.me:80/live/786786/786786/23742.ts
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10",ATN Islamic Tv
+http://b1g.me:80/live/786786/786786/23743.ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
 http://b1g.me:80/live/786786/786786/20742.ts
 
