@@ -427,6 +427,9 @@ http://b1g.me:80/live/786786/786786/23724.ts
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjKO5ztjKYQDkRPB8EewqYH31AZu-jPc4obN1RJr71eua619-knOPo9QL&s=10",Tara News
+http://b1g.me:80/live/786786/786786/672350.ts
+
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHm1tZ39MdH7sAM5wDdN1iLTKn3TyfH61aA&s",Akash aath
 http://tv.cloudcdn.me:80/live.ts?channelId=79&uid=3960&deviceMac=00:1A:79:09:AC:16
 
