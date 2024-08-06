@@ -352,7 +352,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://cdn.ncare.live/live-orgin/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTneNy6EOcF1UVcPwFvIZxPOhVLk4m69gVYInGZw3YwAGugK6WvHR35YiA&s=10",NRB Tv
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225763&extension=ts&play_token=dFe4IXIxy9
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjQgOTowMToxNSBBTSZoYXNoX3ZhbHVlPXlUdHBNMXEvQ253RTh0eGpseVdxL0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://ktvbangla.net/ktv-croped.png",k tv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
@@ -361,7 +361,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTfIqdn_8ICjzwyIdklvUI11UR4nYjdjhAxXYaVj0Y7vncDzl_nGQAUir&s=10",Deshe Bideshe
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225744&extension=ts&play_token=m9f309Ip5F
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAIaotMhEqM8tP4kd1sFNx4jt0WqqlP-Na71qNgOP-Q&s",Channel S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
