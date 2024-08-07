@@ -556,7 +556,7 @@ http://filex.tv:8080/live/munna/9090/288303.ts
 http://xtv.ooo:8080/live/874246786/743567899/167567.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5A-cRMf6q2AiJQDPA_b7uEATFkpPy1AF6tBHg3AAGg&s",GEO sports
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1106886&extension=ts&play_token=HlPvVUaJBE
+http://xtv.ooo:8080/live/874246786/743567899/167568.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0oT6DKSp7vf58fnVrlnUUKDBi0XFDj4Rfj0bu-nkenQ&s",Ten Sports
 http://xtv.ooo:8080/live/15155419/16175512/167569.ts
@@ -610,7 +610,7 @@ http://103.120.172.74:5300
 http://xtv.ooo:8080/live/15155419/16175512/238475.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjaxi9NDQVp8GT0EHdKrafpQnVmQwxrk4Rg&usqp=CAU",super sports premire league
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPSQ_GBTOPVvaNykIBANHhE/ts
+http://xtv.ooo:8080/live/874246786/743567899/238478.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5170.ts
@@ -619,7 +619,7 @@ http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5170.ts
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5169.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmQ3gkiYWF1Pvc0k3K-uiT3YNDF1MX-BgtQ&s",Willow Hd
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=175004&extension=ts&play_token=CwyOBjGRWZ
+http://xtv.ooo:8080/live/874246786/743567899/347333.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSypmOuhodRTHsvzPMlfCJLyRHidDgq82bNPQ&usqp=CAU",Willow cricket xtra
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1142110&extension=ts&play_token=5T0YvUxCBy
