@@ -94,6 +94,14 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs45fgufyNGxA6W3f1-Ukj7l0g7fSOpHQTthZN194-bYOCYZS2KtCijsU&s=10",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 
+#EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXSWcXN4-hq0XgSczg3n7OSgAlLYCSXzw3Q&usqp=CAU",BBC News
+http://hdhd.tk:80/live/Giovanni/Giovanni/42397.ts
+
+
+
+
+
+
 
 
 
