@@ -88,6 +88,10 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 
 
+
+
+
+
 #EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqPUPVaXzwd9vJdu-rBjFMexBsYShEGdTbQ&s",Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -99,6 +103,15 @@ http://hdhd.tk:80/live/Giovanni/Giovanni/42397.ts
 
 #EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzw3vwKvLycnT10V3qEfQnJvhneiC43UU8Q&usqp=CAU",Euro News
 http://hdhd.tk:80/live/Giovanni/Giovanni/19963.ts
+
+#EXTINF:-1 group-title="World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVhJoQEffAHEi0yGtLfkN45L0PvhL5h_nk9HAS04VtPTF4mjDNUiEWZo&s=10",ABC News
+http://hdhd.tk:80/live/Giovanni/Giovanni/1647.ts
+
+
+
+
+
+
 
 
 
@@ -149,6 +162,10 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=155775&extens
 
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcoDnyvdv-c-dOzKQjhJ4C_pq3tFrF4bU0g&usqp=CAU",Hindy Classic Movie
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=636188&extension=ts&play_token=JYXvV3ihYW
+
+
+
+
 
 
 
@@ -229,6 +246,10 @@ https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uV1I-GzMG4XM6baDjTK_Z0kHdVnzu0p9zQ&s",DW News(youtube)
 https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
+
+
+
+
 
 
 
@@ -441,6 +462,9 @@ https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGMci5DpNAISPXw6fcGXqtes7-ZdTOQ7RbA&s",Sananda tv
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
 
@@ -494,6 +518,10 @@ http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8?|User-Agent=Mozilla/5.
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8YBLEVOEipQrAErbFdRBxJDfn9TFxMjR3A&s",Rupasy Bangla
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225769&extension=ts&play_token=a7LlfwOBBu
+
+
+
+
 
 
 
