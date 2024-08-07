@@ -687,6 +687,56 @@ http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/48543.ts
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqnSD6vvHgrPe-FOm2sVFRKmBqxgIaXIDqvVfYEeHSFA&s",Oman sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOSfgacFlgWej3powP64tyIiz3a_nTwoHhw&usqp=CAU",Dubai sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTWvM_fqZ-I26oix9CZDZVjNXHe43MXpR3Rb95lSgow&s",Dubai sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcb5r_167x6MRbjuTZyYXAb4ffbtUlXaIJHmBgStfeVYD0zh3dGwTj7cK&s=10",Dubai sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SW3drf7MQWz-7kR5xAvygr4GDoEJ-637XjKjp1tpIA&s",Dubai Racing 1
+https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b700000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtpCo4w0fvoICVdRyr9vwXp2hhNyIrwpLNv-af1rh4g&s",Dubai racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHpIPp6Z_Wy2Y_bDUHqz5Zl7V8jchCzxUMw&usqp=CAU",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPyMpGyY7q2vGkNrPghc73w1Y7KqPRsUf6A&s",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmBFMBBJGdYcumATN4vHZm_mqiqwef-3ZBDI86JFQ8gLZi225waGvFvYb&s=10",kuwait sports 1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmBFMBBJGdYcumATN4vHZm_mqiqwef-3ZBDI86JFQ8gLZi225waGvFvYb&s=10",kuwait Sports 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arab Sports" tvg-logo="https://yt3.googleusercontent.com/qcDzPkEbeNQ8oII0wIc5FGUaRfUg1BSQI5MDGzT5SX2IFFwRduFL9rtWdMaejYCKtAZIA9E20w=s900-c-k-c0x00ffffff-no-rj",RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/01.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6k-6YbnOt4HZLlWEyAwKq2efiSWUGpUEpbIJUgdrule3UQNSh3aRXmc&s",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
