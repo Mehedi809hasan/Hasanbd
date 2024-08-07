@@ -773,6 +773,21 @@ http://xtv.ooo:8080/live/874246786/743567899/270489.ts
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt1UfaDgKKXSFUnCtv6Eq_o_cX4H46kpwkA&usqp=CAU",Hindy hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://cdn6.aptoide.com/imgs/5/6/4/56455875712553522612035afedd68f5_icon.png",joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRklGMEgYSp0rmi1yfBVTXivrSiXUYrEuP6Z32qjAhAJiJKYEZYSTPDIXc&s=10",MTB Beats
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
+
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Play_TV.jpg",play Tv
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+
+
+
+
+
+
 
 
 
