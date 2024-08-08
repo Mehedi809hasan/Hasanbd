@@ -169,7 +169,7 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=636188&extens
 #EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPrZqyLxCYQr5nzjtlgslgqBgoIsGjYWd8fyhQeUzIANvoLUMe6S3NU4&s=10",Netflix Action 1
 http://xtv.ooo:8080/live/874246786/743567899/247998.ts
 
-#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVhJoQEffAHEi0yGtLfkN45L0PvhL5h_nk9HAS04VtPTF4mjDNUiEWZo&s=10",Netflix Action 2
+#EXTINF:-1 group-title="Premium 24/7 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPrZqyLxCYQr5nzjtlgslgqBgoIsGjYWd8fyhQeUzIANvoLUMe6S3NU4&s=10",Netflix Action 2
 http://xtv.ooo:8080/live/874246786/743567899/248003.ts
 
 
@@ -412,6 +412,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIweY-wyEYsJON0inPkWpELP8NVhiNwp7j02cGAZkxqyu9QaeSlKrAAZs&s=10",ION Tv
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/437797.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",cumilla tv
 http://103.149.142.133/0.m3u8
